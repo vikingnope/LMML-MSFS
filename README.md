@@ -12,7 +12,7 @@
 
 #### Also if you would like to stay up to date with the latest updates for my projects, you should join my Discord Server using the below banner:
 
-<img src="https://discordapp.com/api/guilds/1050783936910987354/widget.png?style=banner1" alt="Discord Banner 1"/>
+<img src="https://discordapp.com/api/guilds/1050783936910987354/widget.png?style=banner1" href= "https://discord.gg/ZNQzkZ8tNp" alt="Discord Banner 1"/>
 
 <br/><br/>
 
