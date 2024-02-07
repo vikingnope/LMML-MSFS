@@ -16,8 +16,24 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\vikingstudios-airport-lmml-malta\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\vikingstudios-airport-lmml-malta</OutputDir>
+			<AssetDir>PackageDefinitions\vikingstudios-airport-lmml-malta\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\vikingstudios-airport-lmml-malta\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="materialsAsset">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\MaterialLibs\materialsAsset\</AssetDir>
+			<OutputDir>MaterialLibs\materialsAsset\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="modelLibrary">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-lmml-malta\modelLibrary\</AssetDir>
+			<OutputDir>Scenery\airport-lmml-malta\modelLibrary\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>

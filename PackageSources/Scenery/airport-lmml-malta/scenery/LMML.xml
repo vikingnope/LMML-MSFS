@@ -1,23 +1,6 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<Polygon altitude="70.32598435421777">
-		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9CCA4E8E-B007-4BDB-8B84-BA7527EDF683}"/>
-		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="300.000000"/>
-		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
-		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
-		<Vertex lat="35.86081977307502" lon="14.48127099764824"/>
-		<Vertex lat="35.86202247052230" lon="14.48017551701198"/>
-		<Vertex lat="35.86274976550964" lon="14.47688522511624"/>
-		<Vertex lat="35.86282770156686" lon="14.47548739551835"/>
-		<Vertex lat="35.86189067077022" lon="14.47307057720024"/>
-		<Vertex lat="35.86181707042773" lon="14.47269673506975"/>
-		<Vertex lat="35.86154817266140" lon="14.47253376227957"/>
-		<Vertex lat="35.86088150242026" lon="14.47225509176227"/>
-		<Vertex lat="35.86039265615464" lon="14.47170390609357"/>
-		<Vertex lat="35.86007943210999" lon="14.47173642178203"/>
-		<Vertex lat="35.85814981800193" lon="14.47587607780195"/>
-	</Polygon>
-	<Polygon groupIndex="1" altitude="73.40365106239915">
+	<Polygon altitude="73.40364837646484">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9C07D76C-45EF-4FED-8AD8-46A4B3C2C676}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="50.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -63,19 +46,19 @@
 		<Vertex lat="35.83373940304600" lon="14.50806796488232"/>
 		<Vertex lat="35.83294052449973" lon="14.50704742809984"/>
 	</Polygon>
-	<Airport displayName="Malta International Airport" groupIndex="2" groupID="1" groupGenerated="FALSE" country="Malta" name="Malta International Airport" ident="LMML" lat="35.85754171013603" lon="14.47743907570836" alt="78.25700369104743" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="4000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
-		<Runway parentGroupID="1" lat="35.84576176719219" lon="14.49205165405693" alt="73.48985217139125" heading="-45.27000427246094" length="3350.00000000000000" width="58.00000000000000" patternAltitude="90.50000000000000" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="31" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
+	<Airport displayName="Malta International Airport" groupIndex="1" groupID="1" groupGenerated="FALSE" country="Malta" name="Malta International Airport" ident="LMML" lat="35.85754171013603" lon="14.47743907570836" alt="78.25700369104743" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="4000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
+		<Runway parentGroupID="1" lat="35.84576176719219" lon="14.49205165405693" alt="73.48985217139125" heading="314.72998046875000" length="3350.00000000000000" width="58.00000000000000" patternAltitude="90.50000000000000" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="31" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="HIGH" edge="HIGH"/>
 			<Overrun end="PRIMARY" length="241.000000"/>
 			<Overrun end="SECONDARY" length="110.000000"/>
 			<ApproachLights end="PRIMARY" system="CALVERT" strobes="0" endLights="TRUE" touchdown="TRUE" snapToGround="TRUE" reil="TRUE" offset="31.000000" spacing="30.000000" slope="0.000000"/>
-			<ApproachLights end="SECONDARY" system="CALVERT" strobes="0" endLights="TRUE" touchdown="TRUE" snapToGround="TRUE" reil="TRUE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
+			<ApproachLights end="SECONDARY" system="ALSF1" strobes="0" endLights="TRUE" touchdown="TRUE" snapToGround="TRUE" reil="TRUE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
 			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="44.000000" biasZ="1271.287842" spacing="9.000000" pitch="3.000000"/>
 			<Vasi end="PRIMARY" side="RIGHT" type="PAPI4" biasX="45.000000" biasZ="1271.011963" spacing="9.000000" pitch="3.000000"/>
 			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="44.000000" biasZ="1263.832520" spacing="9.000000" pitch="3.000000"/>
 			<Vasi end="SECONDARY" side="RIGHT" type="PAPI4" biasX="43.500000" biasZ="1263.832520" spacing="9.000000" pitch="3.000000"/>
-			<Ils lat="35.85936312301440" lon="14.47520826821985" alt="74.60113567486405" end="PRIMARY" range="16000.00000000000000" ident="LM" magvar="0.000000" heading="-45.00000000000000" frequency="110.50000000000000" name="ILS 31" backCourse="FALSE">
+			<Ils lat="35.85936312301440" lon="14.47520826821985" alt="74.60113567486405" end="PRIMARY" range="16000.00000000000000" ident="LM" magvar="0.000000" heading="315.00000000000000" frequency="110.50000000000000" name="ILS 31" backCourse="FALSE">
 				<Dme lat="35.83619354006439" lon="14.50164109458504" alt="73.67262361571193"/>
 				<GlideSlope lat="35.83770638598470" lon="14.50202814347641" alt="73.67151217162609" pitch="3.000000"/>
 			</Ils>
@@ -83,23 +66,27 @@
 				<Dme lat="35.85362103266124" lon="14.48039905625580" alt="73.59953559935093"/>
 				<GlideSlope lat="35.85378777477317" lon="14.48211930073764" alt="73.57509569916874" pitch="3.000000"/>
 			</Ils>
-			<RunwayStart end="PRIMARY" lat="35.83532528387543" lon="14.50498853399864" alt="73.74923818092793" heading="-45.27003479003906"/>
+			<RunwayStart end="PRIMARY" lat="35.83532528387543" lon="14.50498853399864" alt="73.74923818092793" heading="314.72998046875000"/>
 			<RunwayStart end="SECONDARY" lat="35.85619683934387" lon="14.47911138367234" alt="73.65288360323757" heading="134.72961425781250"/>
 		</Runway>
-		<Runway parentGroupID="1" groupIndex="1" lat="35.85367606759963" lon="14.47081578258764" alt="76.27729846630245" heading="54.50000381469727" length="2373.00000000000000" width="40.00000000000000" patternAltitude="90.00000000000000" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="05" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+		<Runway parentGroupID="1" groupIndex="2" lat="35.85367606759963" lon="14.47081578258764" alt="76.27729846630245" heading="54.50000381469727" length="2373.00000000000000" width="40.00000000000000" patternAltitude="90.00000000000000" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="05" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="TRUE" leadingZeroIdent="TRUE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="HIGH" edge="HIGH"/>
 			<Overrun end="PRIMARY" length="29.500000"/>
 			<Overrun end="SECONDARY" length="36.500000"/>
+			<ApproachLights end="PRIMARY" system="NONE" strobes="0" endLights="FALSE" touchdown="FALSE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
 			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="27.000000" biasZ="806.000000" spacing="9.000000" pitch="3.000000"/>
 			<Vasi end="PRIMARY" side="RIGHT" type="PAPI4" biasX="27.000000" biasZ="806.000000" spacing="9.000000" pitch="3.000000"/>
 			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="37.500000" biasZ="817.000000" spacing="9.000000" pitch="3.000000"/>
 			<Vasi end="SECONDARY" side="RIGHT" type="PAPI4" biasX="37.500000" biasZ="817.000000" spacing="9.000000" pitch="3.000000"/>
 			<RunwayStart end="PRIMARY" lat="35.85331028898209" lon="14.47018589383040" alt="76.27663393132389" heading="54.50001144409180"/>
-			<RunwayStart end="SECONDARY" lat="35.85404184293270" lon="14.47144567720086" alt="76.27796437125653" heading="-125.49978637695312"/>
+			<RunwayStart end="SECONDARY" lat="35.85404184293270" lon="14.47144567720086" alt="76.27796437125653" heading="234.50021362304688"/>
 		</Runway>
-		<LightSupport parentGroupID="1" groupIndex="2" latitude="35.86227769612847" longitude="14.47162550069746" altitude="41.52488327026367" altitude2="41.52488327026367" heading="45.726654" width="210.642548" length="50.000000" excludeLights="TRUE" excludeLightObjects="TRUE"/>
-		<LightSupport parentGroupID="1" groupIndex="3" latitude="35.83431799777877" longitude="14.50621411145829" altitude="73.73041534423828" altitude2="73.73041534423828" heading="-45.454029" width="60.869564" length="259.228210" excludeLights="FALSE" excludeLightObjects="TRUE"/>
+		<LightSupport parentGroupID="1" groupIndex="5" latitude="35.83431799777877" longitude="14.50621411145829" altitude="73.73041534423828" altitude2="73.73041534423828" heading="314.545959" width="60.869564" length="259.228210" excludeLights="FALSE" excludeLightObjects="TRUE"/>
+		<LightSupport parentGroupID="1" groupIndex="1" latitude="35.83423287845323" longitude="14.50643752601080" altitude="73.16110229492188" altitude2="73.16110229492188" heading="134.936066" width="9.110825" length="14.058620" excludeLights="TRUE" excludeLightObjects="TRUE"/>
+		<LightSupport parentGroupID="1" groupIndex="3" latitude="35.83416107351432" longitude="14.50634831583887" altitude="73.18711853027344" altitude2="73.18711853027344" heading="134.453476" width="8.323919" length="14.569046" excludeLights="TRUE" excludeLightObjects="TRUE"/>
+		<LightSupport parentGroupID="1" groupIndex="4" latitude="35.85679178303596" longitude="14.47836928124746" altitude="74.30000305175781" altitude2="70.30000305175781" heading="135.231674" width="60.035995" length="130.320953" excludeLights="FALSE" excludeLightObjects="TRUE"/>
+		<LightSupport parentGroupID="1" groupIndex="6" latitude="35.85751431375630" longitude="14.47747752618782" altitude="80.00000000000000" altitude2="74.00000000000000" heading="136.549530" width="50.000000" length="67.361404" excludeLights="FALSE" excludeLightObjects="TRUE"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
