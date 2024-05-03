@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/vikingstudios-airport-lmml-malta/ContentHistory.json",
+      "size": 156,
+      "date": 133592408254171321
+    },
+    {
+      "path": "ContentInfo/vikingstudios-airport-lmml-malta/Thumbnail.jpg",
+      "size": 5446,
+      "date": 133493064673484240
+    },
+    {
+      "path": "MaterialLibs/materialsAsset/Library.xml",
+      "size": 28,
+      "date": 133592408252517597
+    },
+    {
+      "path": "Scenery/airport-lmml-malta/modelLibrary/modelLibrary.BGL",
+      "size": 56,
+      "date": 133592408252758147
+    },
+    {
+      "path": "Scenery/airport-lmml-malta/scenery/LMML.bgl",
+      "size": 228300,
+      "date": 133592408254076183
+    }
+  ]
+}
