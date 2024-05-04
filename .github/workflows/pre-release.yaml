@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - develop
+    paths:
+      - 'Packages/**'
+
 permissions:
   contents: write
 jobs:
