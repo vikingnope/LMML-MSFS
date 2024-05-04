@@ -14,6 +14,7 @@ jobs:
       - name: Build ZIP file
         run: |
           mkdir -p Packages-Out
+          ls -ltr
           7z a ../Packages-Out/vikingstudios-airport-lmml-airport.zip ./Packages/vikingstudios-airport-lmml-airport/
           cd ../..
       - name: Create Release
