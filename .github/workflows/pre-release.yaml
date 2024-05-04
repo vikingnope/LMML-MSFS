@@ -1,0 +1,29 @@
+name: Pre release
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  pre_release_lmml:
+    name: Publish Pre Release LMML
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v2
+      - name: Build ZIP file
+        run: |
+          mkdir -p Packages-Out
+          7z a ../Packages-Out/vikingstudios-airport-lmml-airport.zip ./Packages/vikingstudios-airport-lmml-airport/
+          cd ../..
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v2.0.4    
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          name: ${{ github.ref }}
+          draft: false
+          prerelease: true
+          files: ./Packages-Out/vikingstudios-airport-lmml-airport.zip
