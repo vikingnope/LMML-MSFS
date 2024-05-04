@@ -27,4 +27,4 @@ jobs:
           name: Pre Release LMML
           draft: false
           prerelease: true
-          files: ./Packages-Out/vikingstudios-airport-lmml-malta.zip
+          files: ../Packages-Out/vikingstudios-airport-lmml-malta.zip
