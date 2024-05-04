@@ -3,7 +3,8 @@ on:
   push:
     branches:
       - develop
-
+permissions:
+  contents: write
 jobs:
   pre_release_lmml:
     name: Publish Pre Release LMML
