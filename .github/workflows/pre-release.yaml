@@ -15,6 +15,8 @@ jobs:
         run: |
           mkdir -p Packages-Out/
           7z a ../Packages-Out/vikingstudios-airport-lmml-malta.zip ./Packages/vikingstudios-airport-lmml-malta/
+          cd ../Packages-Out/
+          ls -ltr
           cd ../..
       - name: Create Release
         id: create_release
