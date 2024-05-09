@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - develop
+    paths:
+      - 'Packages/**'
     tags:
       - "v*-rc*"
 
@@ -26,8 +28,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref }}
-          name: Pre Release LMML ${{ github.ref }}
           draft: false
           prerelease: true
           files: ../Packages-Out/vikingstudios-airport-lmml-malta.zip
