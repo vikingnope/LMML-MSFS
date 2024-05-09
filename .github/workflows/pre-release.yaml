@@ -22,7 +22,7 @@ jobs:
         uses: mknejp/delete-release-assets@v1
         with:
           token: ${{ github.token }}
-          tag: "refs/tag/v*-rc*" # Delete all pre-releases
+          tag: "v*-rc*" # Delete all pre-releases
           assets: "*"
           fail-if-no-assets: false
       - name: Create Release
