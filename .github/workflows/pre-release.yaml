@@ -5,6 +5,8 @@ on:
       - develop
     paths:
       - 'Packages/**'
+    tags:
+      - "v*-rc*"
 
 permissions:
   contents: write
@@ -26,8 +28,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v0.1.0-rc1
-          name: Pre Release LMML
+          tag_name: ${{ github.ref }}
+          name: Pre Release LMML ${{ github.ref }}
           draft: false
           prerelease: true
           files: ../Packages-Out/vikingstudios-airport-lmml-malta.zip
