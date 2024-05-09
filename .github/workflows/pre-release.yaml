@@ -1,8 +1,6 @@
 name: Pre release
 on:
   push:
-    branches:
-      - develop
     tags:
       - "v*-rc*"
 
