@@ -18,13 +18,6 @@ jobs:
           mkdir -p Packages-Out/
           7z a ../Packages-Out/vikingstudios-airport-lmml-malta.zip ./Packages/vikingstudios-airport-lmml-malta/
           cd ../..
-      - name: Delete old GitHub Pre-Releases
-        uses: mknejp/delete-release-assets@v1
-        with:
-          token: ${{ github.token }}
-          tag: "v*-rc*" # Delete all pre-releases
-          assets: "*"
-          fail-if-no-assets: false
       - name: Create Release
         id: create_release
         uses: softprops/action-gh-release@v2.0.4    
