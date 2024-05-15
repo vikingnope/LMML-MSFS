@@ -1,4 +1,32 @@
 <Library Version="1.1.0">
+	<Material Version="1.4.0" Name="parking 2" Guid="{4096E213-2BC3-407A-9379-1B1F9BF4A8E1}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 2.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxiway N" Guid="{3F9A29CF-322E-4B3A-9031-471E23853E53}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
@@ -27,11 +55,67 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="parking 24" Guid="{3DDAB2D0-C91B-4877-9CC9-5A9AAE63C34D}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 24.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxi K" Guid="{61C48D26-CE5D-43CD-81BC-C88FC6838388}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TAXI K.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 9A" Guid="{7B4B5AA4-BA78-45D9-918E-1B5060DBEB3B}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 9A.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -111,11 +195,151 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="parking 5A" Guid="{0F575AEF-6046-4CE1-9804-D4181CD684FB}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 5A.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 3" Guid="{6501CA86-DBA6-4C81-9550-073B26A28AE7}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 3.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxi T" Guid="{5D43D0A6-0A70-4655-B868-271B67D25199}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TAXI T.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 4" Guid="{B80A7109-E370-40AB-A6FB-B188A1488025}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 4.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 5" Guid="{C429F25C-859C-43EF-9816-07CBDA11EE55}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 5.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 6A" Guid="{421DF19D-1060-48E1-B35F-52487529DB0E}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 6A.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -167,11 +391,123 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="parking 4A" Guid="{FA6B3F22-4627-4B61-8A57-BCB07DC61AD1}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 4A.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 6" Guid="{B0C7B267-BF8C-489B-8822-207A1DFB25F8}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 6.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxiway P" Guid="{1FDB6788-971D-4360-9BD1-2E892AA6C6BE}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TAXIWAY P.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 11B" Guid="{08E41323-F6D7-4326-82B7-DA65A90C5783}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 11B.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 13" Guid="{989DD3C5-29A2-47A9-832E-0B526EF8DF73}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 13.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -228,6 +564,90 @@
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TAXI V REVERSE.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 1" Guid="{EC91A885-A203-4B8E-873B-DE5D11ACF8E1}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 1.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 9" Guid="{5AA532CE-C8A4-404D-894D-A84C7CFFD8FC}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 9.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 10B" Guid="{D177177F-C2A0-4BBD-82F7-51CEAF3D4D4E}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 10B.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -335,6 +755,62 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="parking 7A" Guid="{660EE92A-B20A-4547-8F42-1031FB0E6CAE}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 7A.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 12" Guid="{06257352-BAE6-40E0-A8F0-77F1154C099F}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 12.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxi Z" Guid="{C0F4DB01-63AB-466E-94E5-009A26613DB9}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
@@ -363,11 +839,95 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="parking 15" Guid="{825B4D48-74DF-46AF-B74F-AE60FD29F660}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 15.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxi W" Guid="{DF73E866-1170-48E5-A7F0-DEFD278BD2D2}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TAXI W.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 21" Guid="{899F638A-DD6A-487C-9684-8EAC49A4854E}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 21.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 22" Guid="{E4AB6CC6-5694-4536-9B9F-8694415AF4A2}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 22.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -503,6 +1063,146 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="parking 10" Guid="{2EF25353-935F-4E47-821A-9673A138FAF8}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 10.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 16" Guid="{A642B559-CAA3-49AA-8B2D-731B5D16D26A}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 16.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 7" Guid="{BB0A3DC9-4341-4BA7-A454-9576AC1A547D}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 7.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 14" Guid="{50575DD5-57E1-41FE-B453-F970E6C9DBCA}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 14.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 19" Guid="{BE1DFCEB-2A62-49B1-A2CA-7F8184304BF1}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 19.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxi H" Guid="{FE211D3F-068D-4532-A812-928469E64258}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
@@ -559,11 +1259,95 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="parking 8A" Guid="{318E0EB7-ACE0-4F45-AA05-ADE16F359BF6}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 8A.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxiway T" Guid="{29B602EE-7614-4B00-BC6A-0DAE2BA21B1F}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TAXIWAY T.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 17" Guid="{47ADD255-BACB-4C93-80AF-697B2451BB45}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 17.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 8" Guid="{EA5B8BD3-AE25-4F08-A4E1-333DC29AA25C}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 8.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -671,6 +1455,62 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="parking 13A" Guid="{4F56BEF8-BBCE-41EC-BE07-39FA658B4604}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 13A.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 23" Guid="{1010BE86-BF5B-4AE3-A435-6ADAE268A7C1}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 23.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxiway V" Guid="{49E753FC-3C66-4ED6-A600-13BA241C9C73}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
@@ -699,11 +1539,39 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
-	<Material Version="1.4.0" Name="taxiway Y" Guid="{E17E221A-FBD9-4D6A-8877-6D87BF3D8AE0}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+	<Material Version="1.4.0" Name="parking 11" Guid="{A026D52A-77B4-4C9E-B6F6-AACDA3EC97A0}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
-			<Texture FileName="TAXIWAY Y.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+			<Texture FileName="PARKING 11.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 20" Guid="{BB46E6CA-E20E-4358-8C32-097F57400EEC}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 20.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -732,6 +1600,34 @@
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TAXIWAY Z.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="parking 18" Guid="{744DE1C6-2A79-4095-A63C-CD213A51CA94}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="PARKING 18.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
