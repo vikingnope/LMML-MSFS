@@ -26,5 +26,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           draft: false
-          prerelease: true
+          prerelease: false
           files: ../Packages-Out/vikingstudios-airport-lmml-malta.zip
