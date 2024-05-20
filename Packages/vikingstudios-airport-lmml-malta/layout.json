@@ -3,7 +3,7 @@
     {
       "path": "ContentInfo/vikingstudios-airport-lmml-malta/ContentHistory.json",
       "size": 156,
-      "date": 133603654914509382
+      "date": 133607068795443902
     },
     {
       "path": "ContentInfo/vikingstudios-airport-lmml-malta/Thumbnail.jpg",
@@ -28,7 +28,7 @@
     {
       "path": "MaterialLibs/materialsAsset/Library.xml",
       "size": 65809,
-      "date": 133602791010616456
+      "date": 133607068739431828
     },
     {
       "path": "MaterialLibs/materialsAsset/PARKING 1.PNG.DDS",
@@ -916,21 +916,6 @@
       "date": 132630843680000000
     },
     {
-      "path": "MaterialLibs/materialsAsset/TAXIWAY Y.PNG.DDS",
-      "size": 349700,
-      "date": 132631211740000000
-    },
-    {
-      "path": "MaterialLibs/materialsAsset/taxiway Y.png.DDS.FLAGS",
-      "size": 39,
-      "date": 133597360665174138
-    },
-    {
-      "path": "MaterialLibs/materialsAsset/TAXIWAY Y.PNG.DDS.json",
-      "size": 238,
-      "date": 132631211740000000
-    },
-    {
       "path": "MaterialLibs/materialsAsset/TAXIWAY Z.PNG.DDS",
       "size": 349700,
       "date": 132631675960000000
@@ -947,13 +932,13 @@
     },
     {
       "path": "Scenery/airport-lmml-malta/modelLibrary/modelLibrary.BGL",
-      "size": 56,
-      "date": 133597381178038345
+      "size": 56060,
+      "date": 133607068792881214
     },
     {
       "path": "Scenery/airport-lmml-malta/scenery/LMML.bgl",
-      "size": 277165,
-      "date": 133603654914384117
+      "size": 287309,
+      "date": 133607068795333786
     }
   ]
 }
