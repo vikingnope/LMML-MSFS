@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
 	<!--SceneryObject name: Collection-->
-	<SceneryObject displayName="Collection (copy)" groupIndex="3" lat="35.84688831507141" lon="14.49475990215607" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="-140.790252" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Collection (copy)" groupIndex="4" lat="35.84688831507141" lon="14.49475990215607" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="-140.790252" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{46D2EF09-1B30-4055-95A4-BFBA2F8C585B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Collection-->
@@ -9,16 +9,16 @@
 		<LibraryObject name="{46D2EF09-1B30-4055-95A4-BFBA2F8C585B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Collection-->
-	<SceneryObject groupIndex="4" lat="35.84851746871456" lon="14.49271249041867" alt="0.00000000000000" pitch="0.000553" bank="-0.000553" heading="134.165788" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="5" lat="35.84851746871456" lon="14.49271249041867" alt="0.00000000000000" pitch="0.000553" bank="-0.000553" heading="134.165788" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{46D2EF09-1B30-4055-95A4-BFBA2F8C585B}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="8" lat="35.85125667781369" lon="14.46484190470020" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="9" lat="35.85125667781369" lon="14.46484190470020" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="9" lat="35.85764588194390" lon="14.48001263626706" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="10" lat="35.85764588194390" lon="14.48001263626706" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
-	<Polygon groupIndex="2" altitude="73.19556427001953">
+	<Polygon groupIndex="3" altitude="73.19556427001953">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{230DAF44-FA24-480D-A250-EE2E01E5E7DD}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
@@ -146,7 +146,7 @@
 		<Vertex lat="35.84613928993978" lon="14.45894079983832"/>
 		<Vertex lat="35.84606617817754" lon="14.45923803589240"/>
 	</Polygon>
-	<Polygon groupIndex="5" altitude="69.00000000000000">
+	<Polygon groupIndex="6" altitude="69.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{8FC93664-65DC-46F6-829F-B461B8A3ED0E}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="30.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -159,7 +159,26 @@
 		<Vertex lat="35.84601103470921" lon="14.48738497011131"/>
 		<Vertex lat="35.84641673485677" lon="14.48865301830294"/>
 	</Polygon>
-	<Polygon groupIndex="13" altitude="68.00000000000000">
+	<Polygon groupIndex="2" altitude="66.99999999720603">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{E4F453DD-18BD-46BE-9867-17B828BC2199}"/>
+		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="1.000000"/>
+		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
+		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
+		<Vertex lat="35.85065536780495" lon="14.49487456368005"/>
+		<Vertex lat="35.85051776109925" lon="14.49485248083382"/>
+		<Vertex lat="35.84861843649639" lon="14.49720590192035"/>
+		<Vertex lat="35.84847275764492" lon="14.49745923020133"/>
+		<Vertex lat="35.84847840140996" lon="14.49772328458842"/>
+		<Vertex lat="35.84857198750657" lon="14.49793048093551"/>
+		<Vertex lat="35.84875828873467" lon="14.49807508264290"/>
+		<Vertex lat="35.84898949041736" lon="14.49804320738236"/>
+		<Vertex lat="35.84913650588066" lon="14.49795362837229"/>
+		<Vertex lat="35.84977209392628" lon="14.49714870000887"/>
+		<Vertex lat="35.85001241511514" lon="14.49710700063374"/>
+		<Vertex lat="35.85022439680856" lon="14.49723640269372"/>
+		<Vertex lat="35.85141748525481" lon="14.49570944083397"/>
+	</Polygon>
+	<Polygon groupIndex="15" altitude="68.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{BC189F89-91BA-4C89-881A-A665D153E250}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="20.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -179,7 +198,7 @@
 		<Vertex lat="35.84986212536469" lon="14.49133976886809"/>
 		<Vertex lat="35.84953577303273" lon="14.49103215793038"/>
 	</Polygon>
-	<Polygon groupIndex="6" altitude="71.00000000000000">
+	<Polygon groupIndex="7" altitude="71.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{841ACC96-9F6A-4EEB-88F8-4692B2BA0F83}"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
 		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
@@ -190,7 +209,7 @@
 		<Vertex lat="35.85273872929609" lon="14.49401422720941"/>
 		<Vertex lat="35.85246495657861" lon="14.49387783797166"/>
 	</Polygon>
-	<Polygon groupIndex="11" altitude="73.40364837646484">
+	<Polygon groupIndex="12" altitude="73.40364837646484">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9C07D76C-45EF-4FED-8AD8-46A4B3C2C676}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="50.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -227,16 +246,26 @@
 		<Vertex lat="35.83129115176948" lon="14.51015019554941"/>
 		<Vertex lat="35.83143626891290" lon="14.51029038320312"/>
 		<Vertex lat="35.83158709980010" lon="14.51011743672113"/>
-		<Vertex lat="35.83146487598065" lon="14.50997602359389"/>
-		<Vertex lat="35.83219804447571" lon="14.50901326149481"/>
+		<Vertex lat="35.83152763661803" lon="14.51003245124864"/>
+		<Vertex lat="35.83226534464501" lon="14.50907885776649"/>
 		<Vertex lat="35.83244468430981" lon="14.50904371058220"/>
 		<Vertex lat="35.83247750308038" lon="14.50895551316619"/>
-		<Vertex lat="35.83234825786464" lon="14.50872295851244"/>
-		<Vertex lat="35.83297618484323" lon="14.50793852494674"/>
+		<Vertex lat="35.83242413455641" lon="14.50877747947347"/>
+		<Vertex lat="35.83306732477475" lon="14.50802247760389"/>
 		<Vertex lat="35.83373940304600" lon="14.50806796488232"/>
 		<Vertex lat="35.83294052449973" lon="14.50704742809984"/>
 	</Polygon>
-	<Polygon groupIndex="7" altitude="75.01599884033203">
+	<Polygon groupIndex="13" altitude="70.28320076311773">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9BCAFDA3-4D83-46DD-BE95-CEBEDA2CC570}"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
+		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="0"/>
+		<Attribute name="TreeBrightnessFactor" guid="{63040596-0B21-48FD-8B5F-A9E84A5B7BC9}" type="UINT32" value="0"/>
+		<Vertex lat="35.83295865003051" lon="14.50698862778221"/>
+		<Vertex lat="35.82811472815636" lon="14.51335337126763"/>
+		<Vertex lat="35.82860619398912" lon="14.51402456690345"/>
+		<Vertex lat="35.83356590905463" lon="14.50802273435825"/>
+	</Polygon>
+	<Polygon groupIndex="8" altitude="75.01599884033203">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{4B0C8052-D6BC-4F87-A3D8-C29AFA38A634}"/>
 		<Attribute name="IsWater" guid="{684AFC09-9B38-4431-8D76-E825F54A4DFF}" type="UINT8" value="1"/>
 		<Attribute name="IsWaterExclusion" guid="{972B7BAC-F620-4D6E-9724-E70BF8A450DD}" type="UINT8" value="1"/>
@@ -246,7 +275,7 @@
 		<Vertex lat="35.85812904530238" lon="14.48318596934987"/>
 		<Vertex lat="35.85752039145648" lon="14.48310473530879"/>
 	</Polygon>
-	<Polygon groupIndex="10" altitude="76.96033477783203">
+	<Polygon groupIndex="11" altitude="76.96033477783203">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{30D31720-410E-4ECE-B8C1-B3C9F647A6AE}"/>
 		<Attribute name="IsWater" guid="{684AFC09-9B38-4431-8D76-E825F54A4DFF}" type="UINT8" value="1"/>
 		<Attribute name="IsWaterExclusion" guid="{972B7BAC-F620-4D6E-9724-E70BF8A450DD}" type="UINT8" value="1"/>
@@ -256,7 +285,7 @@
 		<Vertex lat="35.86161579897880" lon="14.48113302408686"/>
 		<Vertex lat="35.86100903207350" lon="14.48141064662973"/>
 	</Polygon>
-	<Airport displayName="Malta International Airport" groupIndex="12" groupID="1" groupGenerated="FALSE" region="Europe" country="Malta" city="Luqa" name="Malta International Airport" ident="LMML" lat="35.85754171013603" lon="14.47743907570836" alt="78.25700369104743" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="4000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
+	<Airport displayName="Malta International Airport" groupIndex="14" groupID="1" groupGenerated="FALSE" region="Europe" country="Malta" city="Luqa" name="Malta International Airport" ident="LMML" lat="35.85754171013603" lon="14.47743907570836" alt="78.25700369104743" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="4000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
 		<TaxiwayPoint parentGroupID="1" groupIndex="1999" index="0" type="NORMAL" orientation="FORWARD" lat="35.85637856584295" lon="14.47886948699400"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="2552" index="1" type="NORMAL" orientation="FORWARD" lat="35.83458429267702" lon="14.50622275907762"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="2461" index="2" type="NORMAL" orientation="FORWARD" lat="35.83645499863306" lon="14.50354228375949"/>
@@ -862,8 +891,8 @@
 		<TaxiwayParking parentGroupID="1" groupIndex="2232" index="204" type="GATE_EXTRA" lat="35.84827886653560" lon="14.49294747535073" heading="224.500000" radius="52.000000" name="PARKING" number="13" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="1" groupIndex="2247" index="523" type="GATE_HEAVY" lat="35.84943852686303" lon="14.49338920663270" heading="0.000000" radius="36.000000" name="GATE" number="2" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="1" groupIndex="2249" index="524" type="GATE_HEAVY" lat="35.84895087174318" lon="14.49395641556611" heading="0.600000" radius="36.000000" name="GATE" number="3" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="1" groupIndex="2252" index="525" type="GATE_HEAVY" lat="35.84849013774794" lon="14.49457907088510" heading="-1.500000" radius="36.000000" name="GATE" number="4" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="1" groupIndex="2254" index="526" type="GATE_HEAVY" lat="35.84798652684024" lon="14.49517264198747" heading="-0.500000" radius="36.000000" name="GATE" number="5" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" groupIndex="2252" index="525" type="GATE_HEAVY" lat="35.84849013774794" lon="14.49457907088510" heading="358.500000" radius="36.000000" name="GATE" number="4" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" groupIndex="2254" index="526" type="GATE_HEAVY" lat="35.84798652684024" lon="14.49517264198747" heading="359.500000" radius="36.000000" name="GATE" number="5" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="1" groupIndex="2256" index="527" type="GATE_HEAVY" lat="35.84749300839054" lon="14.49575955962158" heading="0.000000" radius="36.000000" name="GATE" number="6" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="1" groupIndex="2259" index="528" type="GATE_EXTRA" lat="35.84682152949069" lon="14.49631549055804" heading="44.922691" radius="44.000000" name="GATE" number="7" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="1" groupIndex="2263" index="529" type="GATE_HEAVY" lat="35.84977743960989" lon="14.49273400219530" heading="0.000000" radius="36.000000" name="GATE" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
