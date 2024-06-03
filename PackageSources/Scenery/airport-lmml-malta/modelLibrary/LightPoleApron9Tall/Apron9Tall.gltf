@@ -25,8 +25,7 @@
 				4,
 				5,
 				6,
-				7,
-				9
+				8
 			]
 		}
 	],
@@ -229,15 +228,6 @@
 		{
 			"extensions":{
 				"ASOBO_unique_id":{
-					"id":"Circle"
-				}
-			},
-			"mesh":4,
-			"name":"Circle"
-		},
-		{
-			"extensions":{
-				"ASOBO_unique_id":{
 					"id":"Point"
 				},
 				"ASOBO_macro_light":{
@@ -266,14 +256,14 @@
 		},
 		{
 			"children":[
-				8
+				7
 			],
 			"extensions":{
 				"ASOBO_unique_id":{
 					"id":"Sphere"
 				}
 			},
-			"mesh":5,
+			"mesh":4,
 			"name":"Sphere",
 			"scale":[
 				0.20000000298023224,
@@ -422,28 +412,16 @@
 			]
 		},
 		{
-			"name":"Circle",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":19
-					},
-					"indices":20,
-					"mode":1
-				}
-			]
-		},
-		{
 			"name":"Sphere",
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":21,
-						"NORMAL":22,
-						"TEXCOORD_0":23,
-						"TANGENT":24
+						"POSITION":19,
+						"NORMAL":20,
+						"TEXCOORD_0":21,
+						"TANGENT":22
 					},
-					"indices":25
+					"indices":23
 				}
 			]
 		}
@@ -606,28 +584,6 @@
 		{
 			"bufferView":19,
 			"componentType":5126,
-			"count":32,
-			"max":[
-				1,
-				0,
-				1
-			],
-			"min":[
-				-1,
-				0,
-				-1
-			],
-			"type":"VEC3"
-		},
-		{
-			"bufferView":20,
-			"componentType":5123,
-			"count":64,
-			"type":"SCALAR"
-		},
-		{
-			"bufferView":21,
-			"componentType":5126,
 			"count":1984,
 			"max":[
 				0.9999997019767761,
@@ -642,25 +598,25 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":22,
+			"bufferView":20,
 			"componentType":5126,
 			"count":1984,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":23,
+			"bufferView":21,
 			"componentType":5126,
 			"count":1984,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":24,
+			"bufferView":22,
 			"componentType":5126,
 			"count":1984,
 			"type":"VEC4"
 		},
 		{
-			"bufferView":25,
+			"bufferView":23,
 			"componentType":5123,
 			"count":2880,
 			"type":"SCALAR"
@@ -783,50 +739,38 @@
 		},
 		{
 			"buffer":0,
-			"byteLength":384,
+			"byteLength":23808,
 			"byteOffset":13928,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":128,
-			"byteOffset":14312,
-			"target":34963
-		},
-		{
-			"buffer":0,
 			"byteLength":23808,
-			"byteOffset":14440,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":23808,
-			"byteOffset":38248,
+			"byteOffset":37736,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":15872,
-			"byteOffset":62056,
+			"byteOffset":61544,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":31744,
-			"byteOffset":77928,
+			"byteOffset":77416,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":5760,
-			"byteOffset":109672,
+			"byteOffset":109160,
 			"target":34963
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":115432,
+			"byteLength":114920,
 			"uri":"Apron9Tall.bin"
 		}
 	]
