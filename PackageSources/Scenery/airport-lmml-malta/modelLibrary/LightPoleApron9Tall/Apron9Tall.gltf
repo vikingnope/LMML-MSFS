@@ -104,8 +104,8 @@
 						1,
 						1
 					],
-					"intensity":400,
-					"cone_angle":149.99999734394112,
+					"intensity":600,
+					"cone_angle":180.00000500895632,
 					"has_symmetry":false,
 					"flash_frequency":0,
 					"flash_duration":0,
@@ -163,8 +163,8 @@
 						1,
 						1
 					],
-					"intensity":400,
-					"cone_angle":149.99999734394112,
+					"intensity":600,
+					"cone_angle":180.00000500895632,
 					"has_symmetry":false,
 					"flash_frequency":0,
 					"flash_duration":0,
@@ -197,8 +197,8 @@
 						1,
 						1
 					],
-					"intensity":400,
-					"cone_angle":149.7000017752158,
+					"intensity":600,
+					"cone_angle":180.00000500895632,
 					"has_symmetry":false,
 					"flash_frequency":0,
 					"flash_duration":0,
