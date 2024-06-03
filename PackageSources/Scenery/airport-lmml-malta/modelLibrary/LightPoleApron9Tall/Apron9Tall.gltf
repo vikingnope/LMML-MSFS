@@ -104,8 +104,8 @@
 						1,
 						1
 					],
-					"intensity":100,
-					"cone_angle":360,
+					"intensity":400,
+					"cone_angle":149.99999734394112,
 					"has_symmetry":false,
 					"flash_frequency":0,
 					"flash_duration":0,
@@ -163,8 +163,8 @@
 						1,
 						1
 					],
-					"intensity":100,
-					"cone_angle":360,
+					"intensity":400,
+					"cone_angle":149.99999734394112,
 					"has_symmetry":false,
 					"flash_frequency":0,
 					"flash_duration":0,
@@ -197,8 +197,8 @@
 						1,
 						1
 					],
-					"intensity":100,
-					"cone_angle":360,
+					"intensity":400,
+					"cone_angle":149.7000017752158,
 					"has_symmetry":false,
 					"flash_frequency":0,
 					"flash_duration":0,
@@ -349,6 +349,24 @@
 					1
 				]
 			}
+		},
+		{
+			"doubleSided":true,
+			"emissiveFactor":[
+				0,
+				0,
+				0
+			],
+			"extras":{},
+			"name":"Material.001",
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[
+					0,
+					0,
+					0,
+					1
+				]
+			}
 		}
 	],
 	"meshes":[
@@ -421,7 +439,8 @@
 						"TEXCOORD_0":21,
 						"TANGENT":22
 					},
-					"indices":23
+					"indices":23,
+					"material":4
 				}
 			]
 		}

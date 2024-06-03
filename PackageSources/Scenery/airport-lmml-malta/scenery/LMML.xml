@@ -1,60 +1,92 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
+	<!--SceneryObject name: Apron9SmallLightPole-->
+	<SceneryObject groupIndex="8" lat="35.84688408494772" lon="14.49476419034562" alt="0.00000000000000" pitch="0.000526" bank="-0.000540" heading="135.991170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{305A8B90-E9EA-4051-8BE2-5DAA3B7EADD1}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Apron9SmallLightPole-->
+	<SceneryObject groupIndex="6" lat="35.84770120953846" lon="14.49373439091973" alt="0.00000000000000" pitch="0.000342" bank="-0.000342" heading="135.991170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{305A8B90-E9EA-4051-8BE2-5DAA3B7EADD1}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Apron9SmallLightPole-->
+	<SceneryObject groupIndex="2" lat="35.84852688619915" lon="14.49272004998704" alt="0.00000000000000" pitch="0.000219" bank="-0.000219" heading="135.991170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{305A8B90-E9EA-4051-8BE2-5DAA3B7EADD1}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Apron9Tall-->
+	<SceneryObject groupIndex="1" lat="35.84741449232667" lon="14.49649467382037" alt="0.00000000000000" pitch="0.000813" bank="-0.000813" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{14F0E8A7-355B-4829-9764-4ABB23CAC9E7}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Apron9Tall-->
+	<SceneryObject groupIndex="3" lat="35.84814737573512" lon="14.49563595943436" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{14F0E8A7-355B-4829-9764-4ABB23CAC9E7}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Apron9Tall-->
+	<SceneryObject groupIndex="5" lat="35.84924838898866" lon="14.49424938519805" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{14F0E8A7-355B-4829-9764-4ABB23CAC9E7}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Apron9Tall-->
+	<SceneryObject groupIndex="7" lat="35.84996430791087" lon="14.49336344795972" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{14F0E8A7-355B-4829-9764-4ABB23CAC9E7}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: ILS_Antenna_02-->
-	<SceneryObject displayName="ILS_Antenna_02 (copy)" groupIndex="15" lat="35.83346706029413" lon="14.50724953611474" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.500777" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="ILS_Antenna_02 (copy)" groupIndex="23" lat="35.83346706029413" lon="14.50724953611474" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.500777" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C233E165-298F-4606-97AB-4F22DD8EB1B2}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: ILS_Antenna_02-->
-	<SceneryObject groupIndex="14" lat="35.85937893336212" lon="14.47519904174868" alt="0.00000000000000" pitch="0.000833" bank="-0.000833" heading="134.500003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="22" lat="35.85937893336212" lon="14.47519904174868" alt="0.00000000000000" pitch="0.000833" bank="-0.000833" heading="134.500003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C233E165-298F-4606-97AB-4F22DD8EB1B2}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Antenna_LOD0-->
-	<SceneryObject groupIndex="19" lat="35.83605196510502" lon="14.50163195746260" alt="0.00000000000000" pitch="0.000246" bank="-0.000246" heading="134.854312" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="27" lat="35.83605196510502" lon="14.50163195746260" alt="0.00000000000000" pitch="0.000246" bank="-0.000246" heading="134.854312" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{56FA6633-76D0-A683-779B-C580AC32A68E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Antenna_LOD0-->
-	<SceneryObject groupIndex="20" lat="35.85372990052309" lon="14.48027758202648" alt="0.00000000000000" pitch="0.000615" bank="-0.000622" heading="-45.582702" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="28" lat="35.85372990052309" lon="14.48027758202648" alt="0.00000000000000" pitch="0.000615" bank="-0.000622" heading="-45.582702" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{56FA6633-76D0-A683-779B-C580AC32A68E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject displayName="LFPB_DME_Striped_LOD0 (copy)" groupIndex="18" lat="35.83291065551614" lon="14.50689768714320" alt="0.00000000000000" pitch="0.001209" bank="-0.001202" heading="137.345337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LFPB_DME_Striped_LOD0 (copy)" groupIndex="26" lat="35.83291065551614" lon="14.50689768714320" alt="0.00000000000000" pitch="0.001209" bank="-0.001202" heading="137.345337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="24" lat="35.83585381226286" lon="14.50120369642693" alt="0.00000000000000" pitch="0.000526" bank="-0.000526" heading="-118.999982" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="32" lat="35.83585381226286" lon="14.50120369642693" alt="0.00000000000000" pitch="0.000526" bank="-0.000526" heading="-118.999982" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="21" lat="35.83593230329676" lon="14.50114535345485" alt="0.00000000000000" pitch="0.000635" bank="-0.000635" heading="60.412777" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="29" lat="35.83593230329676" lon="14.50114535345485" alt="0.00000000000000" pitch="0.000635" bank="-0.000635" heading="60.412777" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="17" lat="35.83599154910217" lon="14.50147960149409" alt="0.00000000000000" pitch="0.000335" bank="-0.000328" heading="-130.799352" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="25" lat="35.83599154910217" lon="14.50147960149409" alt="0.00000000000000" pitch="0.000335" bank="-0.000328" heading="-130.799352" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="16" lat="35.83635836785017" lon="14.50097051006101" alt="0.00000000000000" pitch="0.000430" bank="-0.000430" heading="135.784625" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="24" lat="35.83635836785017" lon="14.50097051006101" alt="0.00000000000000" pitch="0.000430" bank="-0.000430" heading="135.784625" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="23" lat="35.85364684408535" lon="14.48039880465034" alt="0.00000000000000" pitch="0.000355" bank="-0.000355" heading="-138.238193" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="31" lat="35.85364684408535" lon="14.48039880465034" alt="0.00000000000000" pitch="0.000355" bank="-0.000355" heading="-138.238193" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject displayName="LFPB_DME_Striped_LOD0 (copy)" groupIndex="22" lat="35.85922178775025" lon="14.47426392599607" alt="0.00000000000000" pitch="0.000355" bank="-0.000355" heading="-138.238193" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LFPB_DME_Striped_LOD0 (copy)" groupIndex="30" lat="35.85922178775025" lon="14.47426392599607" alt="0.00000000000000" pitch="0.000355" bank="-0.000355" heading="-138.238193" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="7" lat="35.85125667781369" lon="14.46484190470020" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<!--SceneryObject name: Unknown-->
+	<SceneryObject groupIndex="4" lat="35.84928799666082" lon="14.49424325928147" alt="0.00000000000000" pitch="0.000471" bank="-0.000471" heading="136.501631" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{07210746-7BA8-42DD-AB58-9A31A1A525B1}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="15" lat="35.85125667781369" lon="14.46484190470020" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="8" lat="35.85764588194390" lon="14.48001263626706" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="16" lat="35.85764588194390" lon="14.48001263626706" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
 	<!--SceneryObject name: kxmr_TowerControl-->
 	<SceneryObject lat="35.85364801434654" lon="14.47735478101897" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{266F1A11-9B89-4B34-AB50-01A85DD6A31F}" scale="1.000000"/>
 	</SceneryObject>
-	<Polygon groupIndex="25" altitude="73.33412933349609">
+	<Polygon groupIndex="33" altitude="73.33412933349609">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{ED319F8F-5861-4CE3-A49E-2B8B1A511A25}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
@@ -65,7 +97,7 @@
 		<Vertex lat="35.83611903421121" lon="14.50115701740391"/>
 		<Vertex lat="35.83603814006234" lon="14.50102237347961"/>
 	</Polygon>
-	<Polygon groupIndex="1" altitude="74.46273040771484">
+	<Polygon groupIndex="9" altitude="74.46273040771484">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{753B0108-C3CB-4570-9186-8395E799202E}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
@@ -76,7 +108,7 @@
 		<Vertex lat="35.85339220230829" lon="14.47749476441216"/>
 		<Vertex lat="35.85373477801850" lon="14.47752058648205"/>
 	</Polygon>
-	<Polygon groupIndex="2" altitude="78.00000000000000">
+	<Polygon groupIndex="10" altitude="78.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{23CC7C33-A399-4CED-8136-A2A3407A5D21}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="LandClassRemap" guid="{0A685EB0-0E01-44FE-B9EF-BFFFBC968ADE}" type="UINT8" value="2"/>
@@ -193,7 +225,7 @@
 		<Vertex lat="35.84613928993978" lon="14.45894079983832"/>
 		<Vertex lat="35.84606617817754" lon="14.45923803589240"/>
 	</Polygon>
-	<Polygon groupIndex="4" altitude="69.00000000000000">
+	<Polygon groupIndex="12" altitude="69.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{8FC93664-65DC-46F6-829F-B461B8A3ED0E}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="30.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -206,7 +238,7 @@
 		<Vertex lat="35.84601103470921" lon="14.48738497011131"/>
 		<Vertex lat="35.84641673485677" lon="14.48865301830294"/>
 	</Polygon>
-	<Polygon groupIndex="3" altitude="67.00000000000000">
+	<Polygon groupIndex="11" altitude="67.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{E4F453DD-18BD-46BE-9867-17B828BC2199}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="1.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -225,7 +257,7 @@
 		<Vertex lat="35.85022439680856" lon="14.49723640269372"/>
 		<Vertex lat="35.85141748525481" lon="14.49570944083397"/>
 	</Polygon>
-	<Polygon groupIndex="13" altitude="68.00000000000000">
+	<Polygon groupIndex="21" altitude="68.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{BC189F89-91BA-4C89-881A-A665D153E250}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="20.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -245,7 +277,7 @@
 		<Vertex lat="35.84986212536469" lon="14.49133976886809"/>
 		<Vertex lat="35.84953577303273" lon="14.49103215793038"/>
 	</Polygon>
-	<Polygon groupIndex="5" altitude="71.00000000000000">
+	<Polygon groupIndex="13" altitude="71.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{841ACC96-9F6A-4EEB-88F8-4692B2BA0F83}"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
 		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
@@ -256,7 +288,7 @@
 		<Vertex lat="35.85273872929609" lon="14.49401422720941"/>
 		<Vertex lat="35.85246495657861" lon="14.49387783797166"/>
 	</Polygon>
-	<Polygon groupIndex="10" altitude="73.40364837646484">
+	<Polygon groupIndex="18" altitude="73.40364837646484">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9C07D76C-45EF-4FED-8AD8-46A4B3C2C676}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="50.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -302,7 +334,7 @@
 		<Vertex lat="35.83373940304600" lon="14.50806796488232"/>
 		<Vertex lat="35.83294052449973" lon="14.50704742809984"/>
 	</Polygon>
-	<Polygon groupIndex="11" altitude="70.28320312500000">
+	<Polygon groupIndex="19" altitude="70.28320312500000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9BCAFDA3-4D83-46DD-BE95-CEBEDA2CC570}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="0"/>
@@ -312,7 +344,7 @@
 		<Vertex lat="35.82860619398912" lon="14.51402456690345"/>
 		<Vertex lat="35.83356590905463" lon="14.50802273435825"/>
 	</Polygon>
-	<Polygon groupIndex="6" altitude="75.01599884033203">
+	<Polygon groupIndex="14" altitude="75.01599884033203">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{4B0C8052-D6BC-4F87-A3D8-C29AFA38A634}"/>
 		<Attribute name="IsWater" guid="{684AFC09-9B38-4431-8D76-E825F54A4DFF}" type="UINT8" value="1"/>
 		<Attribute name="IsWaterExclusion" guid="{972B7BAC-F620-4D6E-9724-E70BF8A450DD}" type="UINT8" value="1"/>
@@ -322,7 +354,7 @@
 		<Vertex lat="35.85812904530238" lon="14.48318596934987"/>
 		<Vertex lat="35.85752039145648" lon="14.48310473530879"/>
 	</Polygon>
-	<Polygon groupIndex="9" altitude="76.96033477783203">
+	<Polygon groupIndex="17" altitude="76.96033477783203">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{30D31720-410E-4ECE-B8C1-B3C9F647A6AE}"/>
 		<Attribute name="IsWater" guid="{684AFC09-9B38-4431-8D76-E825F54A4DFF}" type="UINT8" value="1"/>
 		<Attribute name="IsWaterExclusion" guid="{972B7BAC-F620-4D6E-9724-E70BF8A450DD}" type="UINT8" value="1"/>
@@ -332,7 +364,7 @@
 		<Vertex lat="35.86161579897880" lon="14.48113302408686"/>
 		<Vertex lat="35.86100903207350" lon="14.48141064662973"/>
 	</Polygon>
-	<Airport displayName="Malta International Airport" groupIndex="12" groupID="1" groupGenerated="FALSE" region="Europe" country="Malta" city="Luqa" name="Malta International Airport" ident="LMML" lat="35.85754171013603" lon="14.47743907570836" alt="78.25700369104743" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="4000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
+	<Airport displayName="Malta International Airport" groupIndex="20" groupID="1" groupGenerated="FALSE" region="Europe" country="Malta" city="Luqa" name="Malta International Airport" ident="LMML" lat="35.85754171013603" lon="14.47743907570836" alt="78.25700369104743" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="4000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
 		<TaxiwayPoint parentGroupID="1" groupIndex="2251" index="0" type="NORMAL" orientation="FORWARD" lat="35.85637856584295" lon="14.47886948699400"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="2818" index="1" type="NORMAL" orientation="FORWARD" lat="35.83458429267702" lon="14.50622275907762"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="2727" index="2" type="NORMAL" orientation="FORWARD" lat="35.83645499863306" lon="14.50354228375949"/>
@@ -2680,7 +2712,7 @@
 				<Vertex lat="35.84679561608187" lon="14.49076158364962"/>
 				<Vertex lat="35.84680107131984" lon="14.49076759491135"/>
 			</Apron>
-			<Apron parentGroupID="1" groupIndex="882" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="-1" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="1" groupIndex="882" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" drawSurface="FALSE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="-1" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="35.84568295430309" lon="14.49261748082786"/>
 				<Vertex lat="35.84541234338151" lon="14.49299640809907"/>
 				<Vertex lat="35.84542553345893" lon="14.49301154120489"/>
