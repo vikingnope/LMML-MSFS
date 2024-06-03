@@ -592,6 +592,24 @@
 					1
 				]
 			}
+		},
+		{
+			"doubleSided":true,
+			"emissiveFactor":[
+				0,
+				0,
+				0
+			],
+			"extras":{},
+			"name":"Material.009",
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[
+					0,
+					0,
+					0,
+					1
+				]
+			}
 		}
 	],
 	"meshes":[
@@ -738,7 +756,8 @@
 						"TEXCOORD_0":42,
 						"TANGENT":43
 					},
-					"indices":44
+					"indices":44,
+					"material":9
 				}
 			]
 		}
