@@ -1,0 +1,29 @@
+name: Pre release
+on:
+  push:
+    tags:
+      - "v*-rc*"
+
+permissions:
+  contents: write
+jobs:
+  pre_release_lmml:
+    name: Publish Pre Release LMML
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v2
+      - name: Build ZIP file
+        run: |
+          mkdir -p Packages-Out/
+          7z a ../Packages-Out/vikingstudios-airport-lmml-malta.zip ./Packages/vikingstudios-airport-lmml-malta/
+          cd ../..
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v2.0.4    
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          draft: false
+          prerelease: true
+          files: ../Packages-Out/vikingstudios-airport-lmml-malta.zip

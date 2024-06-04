@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{305a8b90-e9ea-4051-8be2-5daa3b7eadd1}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="Apron9SmallLightPole.gltf"/>
+	</LODS>
+</ModelInfo>
