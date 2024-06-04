@@ -1,0 +1,10 @@
+{
+  "package-name": "vikingstudios-airport-lmml-malta",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "LMML",
+      "revision": 1
+    }
+  ]
+}
