@@ -1,860 +1,876 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
 	<!--SceneryObject name: Apron9SmallLightPole-->
-	<SceneryObject groupIndex="36" lat="35.84688408494772" lon="14.49476419034562" alt="0.00000000000000" pitch="0.000526" bank="-0.000540" heading="135.991170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="40" lat="35.84688408494772" lon="14.49476419034562" alt="0.00000000000000" pitch="0.000526" bank="-0.000540" heading="135.991170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{305A8B90-E9EA-4051-8BE2-5DAA3B7EADD1}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Apron9SmallLightPole-->
-	<SceneryObject groupIndex="32" lat="35.84770120953846" lon="14.49373439091973" alt="0.00000000000000" pitch="0.000342" bank="-0.000342" heading="135.991170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="36" lat="35.84770120953846" lon="14.49373439091973" alt="0.00000000000000" pitch="0.000342" bank="-0.000342" heading="135.991170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{305A8B90-E9EA-4051-8BE2-5DAA3B7EADD1}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Apron9SmallLightPole-->
-	<SceneryObject groupIndex="24" lat="35.84852688619915" lon="14.49272004998704" alt="0.00000000000000" pitch="0.000219" bank="-0.000219" heading="135.991170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="28" lat="35.84852688619915" lon="14.49272004998704" alt="0.00000000000000" pitch="0.000219" bank="-0.000219" heading="135.991170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{305A8B90-E9EA-4051-8BE2-5DAA3B7EADD1}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Apron9Tall-->
-	<SceneryObject groupIndex="22" lat="35.84741449232667" lon="14.49649467382037" alt="0.00000000000000" pitch="0.000813" bank="-0.000813" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="26" lat="35.84741449232667" lon="14.49649467382037" alt="0.00000000000000" pitch="0.000813" bank="-0.000813" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{14F0E8A7-355B-4829-9764-4ABB23CAC9E7}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Apron9Tall-->
-	<SceneryObject groupIndex="26" lat="35.84814737573512" lon="14.49563595943436" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="30" lat="35.84814737573512" lon="14.49563595943436" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{14F0E8A7-355B-4829-9764-4ABB23CAC9E7}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Apron9Tall-->
-	<SceneryObject groupIndex="30" lat="35.84924838898866" lon="14.49424938519805" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="34" lat="35.84924838898866" lon="14.49424938519805" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{14F0E8A7-355B-4829-9764-4ABB23CAC9E7}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Apron9Tall-->
-	<SceneryObject groupIndex="34" lat="35.84996430791087" lon="14.49336344795972" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="38" lat="35.84996430791087" lon="14.49336344795972" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="136.112761" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{14F0E8A7-355B-4829-9764-4ABB23CAC9E7}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="123" lat="35.85942860518487" lon="14.47095282273291" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="127" lat="35.85942860518487" lon="14.47095282273291" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="122" lat="35.85942954503223" lon="14.47104813314554" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="126" lat="35.85942954503223" lon="14.47104813314554" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="121" lat="35.85943084165386" lon="14.47114273220876" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="125" lat="35.85943084165386" lon="14.47114273220876" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="120" lat="35.85943235381321" lon="14.47123488267694" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="124" lat="35.85943235381321" lon="14.47123488267694" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="119" lat="35.85943303703084" lon="14.47132705432081" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="123" lat="35.85943303703084" lon="14.47132705432081" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="117" lat="35.85949698996458" lon="14.47097565387115" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="121" lat="35.85949698996458" lon="14.47097565387115" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="116" lat="35.85949729041899" lon="14.47107151567019" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="120" lat="35.85949729041899" lon="14.47107151567019" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="115" lat="35.85949945081289" lon="14.47116699055515" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="119" lat="35.85949945081289" lon="14.47116699055515" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="114" lat="35.85950029026672" lon="14.47126043917615" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="118" lat="35.85950029026672" lon="14.47126043917615" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="113" lat="35.85950149521177" lon="14.47135201899763" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="117" lat="35.85950149521177" lon="14.47135201899763" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="112" lat="35.85956507630917" lon="14.47108925272699" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="116" lat="35.85956507630917" lon="14.47108925272699" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="110" lat="35.85956638946972" lon="14.47118113864311" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="114" lat="35.85956638946972" lon="14.47118113864311" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="108" lat="35.85956684721634" lon="14.47127307466737" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="112" lat="35.85956684721634" lon="14.47127307466737" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="107" lat="35.85956759010452" lon="14.47136464242186" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="111" lat="35.85956759010452" lon="14.47136464242186" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="106" lat="35.85962707772511" lon="14.47110503062804" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="110" lat="35.85962707772511" lon="14.47110503062804" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="105" lat="35.85962896210341" lon="14.47119851697154" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="109" lat="35.85962896210341" lon="14.47119851697154" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="104" lat="35.85963038250205" lon="14.47129131636288" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="108" lat="35.85963038250205" lon="14.47129131636288" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="103" lat="35.85963090094042" lon="14.47138172305376" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="107" lat="35.85963090094042" lon="14.47138172305376" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="102" lat="35.85969160135357" lon="14.47122101427895" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="106" lat="35.85969160135357" lon="14.47122101427895" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="101" lat="35.85969239038650" lon="14.47131988484877" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="105" lat="35.85969239038650" lon="14.47131988484877" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="100" lat="35.85969415122477" lon="14.47141120873263" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="104" lat="35.85969415122477" lon="14.47141120873263" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="99" lat="35.85975899585934" lon="14.47124610615378" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="103" lat="35.85975899585934" lon="14.47124610615378" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="98" lat="35.85975946110631" lon="14.47134067974872" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="102" lat="35.85975946110631" lon="14.47134067974872" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="97" lat="35.85976043419860" lon="14.47143403036343" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="101" lat="35.85976043419860" lon="14.47143403036343" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="96" lat="35.85982247493887" lon="14.47129269586716" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="100" lat="35.85982247493887" lon="14.47129269586716" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="95" lat="35.85982406587018" lon="14.47138658137827" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="99" lat="35.85982406587018" lon="14.47138658137827" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="94" lat="35.85982477230810" lon="14.47148061019456" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="98" lat="35.85982477230810" lon="14.47148061019456" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="93" lat="35.85988733948179" lon="14.47132761139594" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="97" lat="35.85988733948179" lon="14.47132761139594" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="92" lat="35.85988791885942" lon="14.47142508627090" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="96" lat="35.85988791885942" lon="14.47142508627090" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="91" lat="35.85988930015971" lon="14.47151987010951" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="95" lat="35.85988930015971" lon="14.47151987010951" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="43" lat="35.86025757503611" lon="14.47181036924168" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="47" lat="35.86025757503611" lon="14.47181036924168" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="42" lat="35.86026018293590" lon="14.47190908925933" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="46" lat="35.86026018293590" lon="14.47190908925933" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="41" lat="35.86026070733445" lon="14.47199916272101" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="45" lat="35.86026070733445" lon="14.47199916272101" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="40" lat="35.86030591198658" lon="14.47179465512207" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="44" lat="35.86030591198658" lon="14.47179465512207" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="39" lat="35.86030623198198" lon="14.47188676173008" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="43" lat="35.86030623198198" lon="14.47188676173008" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="38" lat="35.86030684963360" lon="14.47197955070946" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="42" lat="35.86030684963360" lon="14.47197955070946" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="37" lat="35.86030685592731" lon="14.47206841838841" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="41" lat="35.86030685592731" lon="14.47206841838841" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="13" lat="35.86030812880224" lon="14.47215868585988" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="17" lat="35.86030812880224" lon="14.47215868585988" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="35" lat="35.86037913580429" lon="14.47180740309831" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="39" lat="35.86037913580429" lon="14.47180740309831" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="33" lat="35.86037986836813" lon="14.47189887272558" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="37" lat="35.86037986836813" lon="14.47189887272558" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="29" lat="35.86038032106472" lon="14.47208047606308" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="33" lat="35.86038032106472" lon="14.47208047606308" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="14" lat="35.86038047736818" lon="14.47234409271770" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="18" lat="35.86038047736818" lon="14.47234409271770" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="31" lat="35.86038069449029" lon="14.47199110478018" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="35" lat="35.86038069449029" lon="14.47199110478018" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="16" lat="35.86038106097788" lon="14.47216957943861" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="20" lat="35.86038106097788" lon="14.47216957943861" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="15" lat="35.86038126200294" lon="14.47225679490425" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="19" lat="35.86038126200294" lon="14.47225679490425" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="27" lat="35.86043920475147" lon="14.47182057356487" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="31" lat="35.86043920475147" lon="14.47182057356487" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="25" lat="35.86044036045905" lon="14.47191193964037" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="29" lat="35.86044036045905" lon="14.47191193964037" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="21" lat="35.86044042194708" lon="14.47209435653573" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="25" lat="35.86044042194708" lon="14.47209435653573" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="23" lat="35.86044084577640" lon="14.47200005889607" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="27" lat="35.86044084577640" lon="14.47200005889607" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="18" lat="35.86044210503524" lon="14.47227667979407" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="22" lat="35.86044210503524" lon="14.47227667979407" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="19" lat="35.86044228945134" lon="14.47218890745123" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="23" lat="35.86044228945134" lon="14.47218890745123" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="17" lat="35.86044231356870" lon="14.47236563484129" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="21" lat="35.86044231356870" lon="14.47236563484129" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="48" lat="35.86049932191531" lon="14.47195033622893" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="52" lat="35.86049932191531" lon="14.47195033622893" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="45" lat="35.86049967913459" lon="14.47222953411744" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="49" lat="35.86049967913459" lon="14.47222953411744" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="46" lat="35.86050002949019" lon="14.47213640235968" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="50" lat="35.86050002949019" lon="14.47213640235968" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="47" lat="35.86050032020972" lon="14.47204605972650" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="51" lat="35.86050032020972" lon="14.47204605972650" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="44" lat="35.86050033485387" lon="14.47232141150071" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="48" lat="35.86050033485387" lon="14.47232141150071" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="49" lat="35.86056443129558" lon="14.47230961508252" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="53" lat="35.86056443129558" lon="14.47230961508252" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="50" lat="35.86056471888959" lon="14.47222130209164" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="54" lat="35.86056471888959" lon="14.47222130209164" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="52" lat="35.86056484690657" lon="14.47213337378280" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="56" lat="35.86056484690657" lon="14.47213337378280" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="54" lat="35.86056508069723" lon="14.47204539273413" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="58" lat="35.86056508069723" lon="14.47204539273413" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="57" lat="35.86056546729895" lon="14.47195308486988" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="61" lat="35.86056546729895" lon="14.47195308486988" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="65" lat="35.86062380800151" lon="14.47203420101360" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="69" lat="35.86062380800151" lon="14.47203420101360" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="63" lat="35.86062405219065" lon="14.47212351173528" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="67" lat="35.86062405219065" lon="14.47212351173528" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="61" lat="35.86062482608060" lon="14.47221349591735" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="65" lat="35.86062482608060" lon="14.47221349591735" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="59" lat="35.86062564177631" lon="14.47230283893574" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="63" lat="35.86062564177631" lon="14.47230283893574" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="68" lat="35.86068341756192" lon="14.47216670257928" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="72" lat="35.86068341756192" lon="14.47216670257928" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="67" lat="35.86068346204782" lon="14.47225674321670" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="71" lat="35.86068346204782" lon="14.47225674321670" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="73" lat="35.86168919105740" lon="14.47346225125306" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="77" lat="35.86168919105740" lon="14.47346225125306" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="72" lat="35.86168993148719" lon="14.47337102070430" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="76" lat="35.86168993148719" lon="14.47337102070430" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="71" lat="35.86169106726967" lon="14.47327854477884" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="75" lat="35.86169106726967" lon="14.47327854477884" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="69" lat="35.86169254206788" lon="14.47309580979169" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="73" lat="35.86169254206788" lon="14.47309580979169" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="70" lat="35.86169275186477" lon="14.47318665674677" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="74" lat="35.86169275186477" lon="14.47318665674677" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="81" lat="35.86176947466207" lon="14.47386519963188" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="85" lat="35.86176947466207" lon="14.47386519963188" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="80" lat="35.86176983550381" lon="14.47377407940740" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="84" lat="35.86176983550381" lon="14.47377407940740" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="79" lat="35.86177044601130" lon="14.47367936323927" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="83" lat="35.86177044601130" lon="14.47367936323927" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="78" lat="35.86177112144534" lon="14.47358763807211" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="82" lat="35.86177112144534" lon="14.47358763807211" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="77" lat="35.86177228739089" lon="14.47349612303918" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="81" lat="35.86177228739089" lon="14.47349612303918" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="76" lat="35.86177322043978" lon="14.47340457850015" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="80" lat="35.86177322043978" lon="14.47340457850015" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="75" lat="35.86177330610425" lon="14.47331434934410" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="79" lat="35.86177330610425" lon="14.47331434934410" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="74" lat="35.86177385834374" lon="14.47322160932146" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="78" lat="35.86177385834374" lon="14.47322160932146" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="89" lat="35.86187102805235" lon="14.47396688787474" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="93" lat="35.86187102805235" lon="14.47396688787474" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="90" lat="35.86187109929682" lon="14.47406052297752" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="94" lat="35.86187109929682" lon="14.47406052297752" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="88" lat="35.86187149833577" lon="14.47387631265246" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="92" lat="35.86187149833577" lon="14.47387631265246" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="85" lat="35.86187155690303" lon="14.47360495763876" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="89" lat="35.86187155690303" lon="14.47360495763876" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="87" lat="35.86187187280056" lon="14.47378600490069" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="91" lat="35.86187187280056" lon="14.47378600490069" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="84" lat="35.86187190940689" lon="14.47351458697618" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="88" lat="35.86187190940689" lon="14.47351458697618" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="86" lat="35.86187200255011" lon="14.47369589048519" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="90" lat="35.86187200255011" lon="14.47369589048519" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="83" lat="35.86187279639268" lon="14.47342361081205" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="87" lat="35.86187279639268" lon="14.47342361081205" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="82" lat="35.86187325463595" lon="14.47333384262815" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="86" lat="35.86187325463595" lon="14.47333384262815" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="134" lat="35.86194103762195" lon="14.47360717963144" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="138" lat="35.86194103762195" lon="14.47360717963144" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="135" lat="35.86194135887275" lon="14.47351219924709" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="139" lat="35.86194135887275" lon="14.47351219924709" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="132" lat="35.86194145318317" lon="14.47379925385279" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="136" lat="35.86194145318317" lon="14.47379925385279" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="133" lat="35.86194232646549" lon="14.47370608402155" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="137" lat="35.86194232646549" lon="14.47370608402155" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="131" lat="35.86194459796096" lon="14.47389941237676" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="135" lat="35.86194459796096" lon="14.47389941237676" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="130" lat="35.86194638593578" lon="14.47399760891455" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="134" lat="35.86194638593578" lon="14.47399760891455" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="129" lat="35.86194656543672" lon="14.47409303884039" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="133" lat="35.86194656543672" lon="14.47409303884039" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="128" lat="35.86194854948053" lon="14.47418772465889" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="132" lat="35.86194854948053" lon="14.47418772465889" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="127" lat="35.86195070740285" lon="14.47428778838439" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="131" lat="35.86195070740285" lon="14.47428778838439" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="126" lat="35.86195172937055" lon="14.47438426906054" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="130" lat="35.86195172937055" lon="14.47438426906054" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="125" lat="35.86195322257781" lon="14.47448031323491" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="129" lat="35.86195322257781" lon="14.47448031323491" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="124" lat="35.86195536575952" lon="14.47457473113097" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="128" lat="35.86195536575952" lon="14.47457473113097" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="214" lat="35.86202426782641" lon="14.47373923030816" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="218" lat="35.86202426782641" lon="14.47373923030816" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="213" lat="35.86202526900937" lon="14.47383063754338" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="217" lat="35.86202526900937" lon="14.47383063754338" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="212" lat="35.86202669563781" lon="14.47392316243328" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="216" lat="35.86202669563781" lon="14.47392316243328" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="211" lat="35.86202843831461" lon="14.47401515228422" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="215" lat="35.86202843831461" lon="14.47401515228422" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="209" lat="35.86202873057061" lon="14.47420060325622" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="213" lat="35.86202873057061" lon="14.47420060325622" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="210" lat="35.86202914135513" lon="14.47410964512160" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="214" lat="35.86202914135513" lon="14.47410964512160" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="208" lat="35.86203076241801" lon="14.47429244863895" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="212" lat="35.86203076241801" lon="14.47429244863895" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="207" lat="35.86203256733589" lon="14.47438509822294" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="211" lat="35.86203256733589" lon="14.47438509822294" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="206" lat="35.86203319347344" lon="14.47447644680614" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="210" lat="35.86203319347344" lon="14.47447644680614" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="205" lat="35.86203555055245" lon="14.47456953071104" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="209" lat="35.86203555055245" lon="14.47456953071104" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="204" lat="35.86203899008608" lon="14.47466152590860" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="208" lat="35.86203899008608" lon="14.47466152590860" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="140" lat="35.86204096556784" lon="14.47475421697910" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="144" lat="35.86204096556784" lon="14.47475421697910" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="226" lat="35.86211099617573" lon="14.47392390178188" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="230" lat="35.86211099617573" lon="14.47392390178188" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="225" lat="35.86211254631444" lon="14.47401898928313" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="229" lat="35.86211254631444" lon="14.47401898928313" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="224" lat="35.86211328955873" lon="14.47411330182228" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="228" lat="35.86211328955873" lon="14.47411330182228" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="223" lat="35.86211454343347" lon="14.47420685777517" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="227" lat="35.86211454343347" lon="14.47420685777517" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="222" lat="35.86211582353202" lon="14.47430120147066" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="226" lat="35.86211582353202" lon="14.47430120147066" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="221" lat="35.86211723764870" lon="14.47439523277545" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="225" lat="35.86211723764870" lon="14.47439523277545" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="220" lat="35.86211767614479" lon="14.47448912805412" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="224" lat="35.86211767614479" lon="14.47448912805412" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="219" lat="35.86211809760769" lon="14.47458199562825" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="223" lat="35.86211809760769" lon="14.47458199562825" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="218" lat="35.86211963406354" lon="14.47467159838089" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="222" lat="35.86211963406354" lon="14.47467159838089" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="217" lat="35.86212026830344" lon="14.47476255502870" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="221" lat="35.86212026830344" lon="14.47476255502870" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="216" lat="35.86212128634173" lon="14.47485391012142" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="220" lat="35.86212128634173" lon="14.47485391012142" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="215" lat="35.86212295444702" lon="14.47494361927306" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="219" lat="35.86212295444702" lon="14.47494361927306" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="203" lat="35.86219674380834" lon="14.47413753761878" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="207" lat="35.86219674380834" lon="14.47413753761878" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="202" lat="35.86219811317765" lon="14.47423475720415" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="206" lat="35.86219811317765" lon="14.47423475720415" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="201" lat="35.86219940998650" lon="14.47433075111602" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="205" lat="35.86219940998650" lon="14.47433075111602" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="199" lat="35.86220085005376" lon="14.47451991013684" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="203" lat="35.86220085005376" lon="14.47451991013684" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="200" lat="35.86220092725075" lon="14.47442632390898" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="204" lat="35.86220092725075" lon="14.47442632390898" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="197" lat="35.86220177059780" lon="14.47461192302822" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="201" lat="35.86220177059780" lon="14.47461192302822" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="193" lat="35.86220212551067" lon="14.47479427613834" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="197" lat="35.86220212551067" lon="14.47479427613834" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="195" lat="35.86220232384382" lon="14.47470511198451" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="199" lat="35.86220232384382" lon="14.47470511198451" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="192" lat="35.86220299910122" lon="14.47488938078039" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="196" lat="35.86220299910122" lon="14.47488938078039" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="191" lat="35.86220306439392" lon="14.47498246687449" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="195" lat="35.86220306439392" lon="14.47498246687449" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="189" lat="35.86220359495355" lon="14.47507337954497" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="193" lat="35.86220359495355" lon="14.47507337954497" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="188" lat="35.86220365702938" lon="14.47516336853043" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="192" lat="35.86220365702938" lon="14.47516336853043" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="186" lat="35.86227172528215" lon="14.47443730384443" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="190" lat="35.86227172528215" lon="14.47443730384443" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="187" lat="35.86227172610926" lon="14.47434130607604" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="191" lat="35.86227172610926" lon="14.47434130607604" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="185" lat="35.86227238688874" lon="14.47452947484615" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="189" lat="35.86227238688874" lon="14.47452947484615" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="184" lat="35.86227274574072" lon="14.47462201487675" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="188" lat="35.86227274574072" lon="14.47462201487675" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="182" lat="35.86227369688111" lon="14.47471849145497" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="186" lat="35.86227369688111" lon="14.47471849145497" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="181" lat="35.86227462599842" lon="14.47481116446891" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="185" lat="35.86227462599842" lon="14.47481116446891" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="179" lat="35.86227614841135" lon="14.47490312909335" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="183" lat="35.86227614841135" lon="14.47490312909335" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="177" lat="35.86227657928945" lon="14.47499787197655" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="181" lat="35.86227657928945" lon="14.47499787197655" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="175" lat="35.86227893044609" lon="14.47509069125796" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="179" lat="35.86227893044609" lon="14.47509069125796" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="174" lat="35.86228029725066" lon="14.47518175447208" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="178" lat="35.86228029725066" lon="14.47518175447208" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="173" lat="35.86228130725335" lon="14.47527463260376" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="177" lat="35.86228130725335" lon="14.47527463260376" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="171" lat="35.86228297503877" lon="14.47536460781305" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="175" lat="35.86228297503877" lon="14.47536460781305" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="170" lat="35.86235152788866" lon="14.47456451817723" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="174" lat="35.86235152788866" lon="14.47456451817723" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="169" lat="35.86235266174722" lon="14.47466133922377" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="173" lat="35.86235266174722" lon="14.47466133922377" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="168" lat="35.86235357545804" lon="14.47475406554513" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="172" lat="35.86235357545804" lon="14.47475406554513" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="167" lat="35.86235458638586" lon="14.47484655259465" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="171" lat="35.86235458638586" lon="14.47484655259465" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="165" lat="35.86235567668200" lon="14.47493893997026" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="169" lat="35.86235567668200" lon="14.47493893997026" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="164" lat="35.86235632635194" lon="14.47503223944387" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="168" lat="35.86235632635194" lon="14.47503223944387" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="162" lat="35.86235754663122" lon="14.47512223366917" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="166" lat="35.86235754663122" lon="14.47512223366917" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="160" lat="35.86235842330665" lon="14.47521629488997" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="164" lat="35.86235842330665" lon="14.47521629488997" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="158" lat="35.86235878398332" lon="14.47530834034296" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="162" lat="35.86235878398332" lon="14.47530834034296" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="157" lat="35.86235975861515" lon="14.47539962057868" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="161" lat="35.86235975861515" lon="14.47539962057868" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="156" lat="35.86235993101857" lon="14.47549131876298" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="160" lat="35.86235993101857" lon="14.47549131876298" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="155" lat="35.86243598400707" lon="14.47480189501299" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="159" lat="35.86243598400707" lon="14.47480189501299" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="154" lat="35.86243708083570" lon="14.47489462186656" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="158" lat="35.86243708083570" lon="14.47489462186656" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="153" lat="35.86243746291968" lon="14.47498582294699" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="157" lat="35.86243746291968" lon="14.47498582294699" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="152" lat="35.86243896341383" lon="14.47507763401065" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="156" lat="35.86243896341383" lon="14.47507763401065" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="150" lat="35.86244111482975" lon="14.47516877057755" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="154" lat="35.86244111482975" lon="14.47516877057755" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="149" lat="35.86244189689294" lon="14.47526228568236" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="153" lat="35.86244189689294" lon="14.47526228568236" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="148" lat="35.86244322777798" lon="14.47535410752911" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="152" lat="35.86244322777798" lon="14.47535410752911" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="147" lat="35.86244338805816" lon="14.47544812926689" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="151" lat="35.86244338805816" lon="14.47544812926689" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="146" lat="35.86251033832092" lon="14.47497827769472" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="150" lat="35.86251033832092" lon="14.47497827769472" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="145" lat="35.86251164804255" lon="14.47507235784484" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="149" lat="35.86251164804255" lon="14.47507235784484" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="143" lat="35.86251302972586" lon="14.47525931751718" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="147" lat="35.86251302972586" lon="14.47525931751718" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="144" lat="35.86251308921350" lon="14.47516774391356" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="148" lat="35.86251308921350" lon="14.47516774391356" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="142" lat="35.86251467776651" lon="14.47534928757415" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="146" lat="35.86251467776651" lon="14.47534928757415" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="141" lat="35.86251567112868" lon="14.47544120256518" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="145" lat="35.86251567112868" lon="14.47544120256518" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="139" lat="35.86258818118493" lon="14.47526059320195" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="143" lat="35.86258818118493" lon="14.47526059320195" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="138" lat="35.86258882882871" lon="14.47535286626575" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="142" lat="35.86258882882871" lon="14.47535286626575" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="137" lat="35.86259032865029" lon="14.47544318020496" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="141" lat="35.86259032865029" lon="14.47544318020496" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Construction_SolarCells_Height-->
-	<SceneryObject groupIndex="136" lat="35.86267034274329" lon="14.47538976868627" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="140" lat="35.86267034274329" lon="14.47538976868627" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{411A1780-2AEF-4B32-93C0-73E4ADB2E9FF}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 7)" groupIndex="3" lat="35.84704119917632" lon="14.49696206270331" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 7)" groupIndex="7" lat="35.84704119917632" lon="14.49696206270331" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 6)" groupIndex="4" lat="35.84735226112146" lon="14.49655611363536" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 6)" groupIndex="8" lat="35.84735226112146" lon="14.49655611363536" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 5)" groupIndex="5" lat="35.84746523695837" lon="14.49641783375103" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 5)" groupIndex="9" lat="35.84746523695837" lon="14.49641783375103" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 4)" groupIndex="6" lat="35.84783811771609" lon="14.49596199060597" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 4)" groupIndex="10" lat="35.84783811771609" lon="14.49596199060597" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 3)" groupIndex="7" lat="35.84793052468974" lon="14.49584840968362" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 3)" groupIndex="11" lat="35.84793052468974" lon="14.49584840968362" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 2)" groupIndex="8" lat="35.84817129192077" lon="14.49555049111841" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 2)" groupIndex="12" lat="35.84817129192077" lon="14.49555049111841" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 1)" groupIndex="2" lat="35.84831099282866" lon="14.49537911113028" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 1)" groupIndex="6" lat="35.84831099282866" lon="14.49537911113028" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject lat="35.84862260987119" lon="14.49498959692887" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="4" lat="35.84862260987119" lon="14.49498959692887" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy)" groupIndex="1" lat="35.84879104608330" lon="14.49478213472651" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy)" groupIndex="5" lat="35.84879104608330" lon="14.49478213472651" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 4)" groupIndex="10" lat="35.84904577083306" lon="14.49446971261215" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 4)" groupIndex="14" lat="35.84904577083306" lon="14.49446971261215" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 3)" groupIndex="11" lat="35.84933744595217" lon="14.49410768334791" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 3)" groupIndex="15" lat="35.84933744595217" lon="14.49410768334791" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 2)" groupIndex="12" lat="35.84984519980269" lon="14.49347383677525" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 2)" groupIndex="16" lat="35.84984519980269" lon="14.49347383677525" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling05_B_High-->
-	<SceneryObject displayName="Fence_Grilling05_B_High (copy 1)" groupIndex="9" lat="35.85005086386368" lon="14.49322113442615" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling05_B_High (copy 1)" groupIndex="13" lat="35.85005086386368" lon="14.49322113442615" alt="0.00000000000000" pitch="0.000437" bank="-0.000437" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D4EB7756-CA57-4981-B153-296FA9490E28}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar144-->
+	<SceneryObject lat="35.85405186413488" lon="14.46575485089307" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="-126.661924" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{22A33324-4DCA-47DD-B899-3643ECBA8253}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar144-->
+	<SceneryObject displayName="Gen_Hangar144 (copy)" groupIndex="3" lat="35.85443435228850" lon="14.46640940385898" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="-126.661924" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{22A33324-4DCA-47DD-B899-3643ECBA8253}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar144-->
+	<SceneryObject displayName="Gen_Hangar144 (copy 1)" groupIndex="1" lat="35.85482071453382" lon="14.46706629689102" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="-126.661924" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{22A33324-4DCA-47DD-B899-3643ECBA8253}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar144-->
+	<SceneryObject displayName="Gen_Hangar144 (copy 2)" groupIndex="2" lat="35.85520733403099" lon="14.46772239478830" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="-126.661924" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{22A33324-4DCA-47DD-B899-3643ECBA8253}" scale="1.300000"/>
 	</SceneryObject>
 	<!--SceneryObject name: ILS_Antenna_02-->
-	<SceneryObject displayName="ILS_Antenna_02 (copy)" groupIndex="163" lat="35.83346706029413" lon="14.50724953611474" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.500777" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="ILS_Antenna_02 (copy)" groupIndex="167" lat="35.83346706029413" lon="14.50724953611474" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.500777" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C233E165-298F-4606-97AB-4F22DD8EB1B2}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: ILS_Antenna_02-->
-	<SceneryObject groupIndex="161" lat="35.85937893336212" lon="14.47519904174868" alt="0.00000000000000" pitch="0.000833" bank="-0.000833" heading="134.500003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="165" lat="35.85937893336212" lon="14.47519904174868" alt="0.00000000000000" pitch="0.000833" bank="-0.000833" heading="134.500003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C233E165-298F-4606-97AB-4F22DD8EB1B2}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Antenna_LOD0-->
-	<SceneryObject groupIndex="178" lat="35.83605196510502" lon="14.50163195746260" alt="0.00000000000000" pitch="0.000246" bank="-0.000246" heading="134.854312" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="182" lat="35.83605196510502" lon="14.50163195746260" alt="0.00000000000000" pitch="0.000246" bank="-0.000246" heading="134.854312" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{56FA6633-76D0-A683-779B-C580AC32A68E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Antenna_LOD0-->
-	<SceneryObject groupIndex="180" lat="35.85372990052309" lon="14.48027758202648" alt="0.00000000000000" pitch="0.000615" bank="-0.000622" heading="-45.582702" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="184" lat="35.85372990052309" lon="14.48027758202648" alt="0.00000000000000" pitch="0.000615" bank="-0.000622" heading="-45.582702" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{56FA6633-76D0-A683-779B-C580AC32A68E}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject displayName="LFPB_DME_Striped_LOD0 (copy)" groupIndex="176" lat="35.83291065551614" lon="14.50689768714320" alt="0.00000000000000" pitch="0.001209" bank="-0.001202" heading="137.345337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LFPB_DME_Striped_LOD0 (copy)" groupIndex="180" lat="35.83291065551614" lon="14.50689768714320" alt="0.00000000000000" pitch="0.001209" bank="-0.001202" heading="137.345337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="196" lat="35.83585381226286" lon="14.50120369642693" alt="0.00000000000000" pitch="0.000526" bank="-0.000526" heading="-118.999982" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="200" lat="35.83585381226286" lon="14.50120369642693" alt="0.00000000000000" pitch="0.000526" bank="-0.000526" heading="-118.999982" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="183" lat="35.83593230329676" lon="14.50114535345485" alt="0.00000000000000" pitch="0.000635" bank="-0.000635" heading="60.412777" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="187" lat="35.83593230329676" lon="14.50114535345485" alt="0.00000000000000" pitch="0.000635" bank="-0.000635" heading="60.412777" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="172" lat="35.83599154910217" lon="14.50147960149409" alt="0.00000000000000" pitch="0.000335" bank="-0.000328" heading="-130.799352" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="176" lat="35.83599154910217" lon="14.50147960149409" alt="0.00000000000000" pitch="0.000335" bank="-0.000328" heading="-130.799352" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="166" lat="35.83635836785017" lon="14.50097051006101" alt="0.00000000000000" pitch="0.000430" bank="-0.000430" heading="135.784625" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="170" lat="35.83635836785017" lon="14.50097051006101" alt="0.00000000000000" pitch="0.000430" bank="-0.000430" heading="135.784625" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject groupIndex="194" lat="35.85364684408535" lon="14.48039880465034" alt="0.00000000000000" pitch="0.000355" bank="-0.000355" heading="-138.238193" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="198" lat="35.85364684408535" lon="14.48039880465034" alt="0.00000000000000" pitch="0.000355" bank="-0.000355" heading="-138.238193" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LFPB_DME_Striped_LOD0-->
-	<SceneryObject displayName="LFPB_DME_Striped_LOD0 (copy)" groupIndex="190" lat="35.85922178775025" lon="14.47426392599607" alt="0.00000000000000" pitch="0.000355" bank="-0.000355" heading="-138.238193" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LFPB_DME_Striped_LOD0 (copy)" groupIndex="194" lat="35.85922178775025" lon="14.47426392599607" alt="0.00000000000000" pitch="0.000355" bank="-0.000355" heading="-138.238193" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{92C19020-9E45-EBEE-CE0B-52035F51B90B}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Unknown-->
-	<SceneryObject groupIndex="28" lat="35.84928799666082" lon="14.49424325928147" alt="0.00000000000000" pitch="0.000471" bank="-0.000471" heading="136.501631" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="32" lat="35.84928799666082" lon="14.49424325928147" alt="0.00000000000000" pitch="0.000471" bank="-0.000471" heading="136.501631" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{07210746-7BA8-42DD-AB58-9A31A1A525B1}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="64" lat="35.85125667781369" lon="14.46484190470020" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="68" lat="35.85125667781369" lon="14.46484190470020" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="66" lat="35.85764588194390" lon="14.48001263626706" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="70" lat="35.85764588194390" lon="14.48001263626706" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
 	<!--SceneryObject name: kxmr_TowerControl-->
-	<SceneryObject groupIndex="20" lat="35.85364801434654" lon="14.47735478101897" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="24" lat="35.85364801434654" lon="14.47735478101897" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{266F1A11-9B89-4B34-AB50-01A85DD6A31F}" scale="1.000000"/>
 	</SceneryObject>
-	<Polygon groupIndex="198" altitude="73.33412933349609">
+	<Polygon groupIndex="202" altitude="73.33412933349609">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{ED319F8F-5861-4CE3-A49E-2B8B1A511A25}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
@@ -865,7 +881,7 @@
 		<Vertex lat="35.83611903421121" lon="14.50115701740391"/>
 		<Vertex lat="35.83603814006234" lon="14.50102237347961"/>
 	</Polygon>
-	<Polygon groupIndex="51" altitude="74.46273040771484">
+	<Polygon groupIndex="55" altitude="74.46273040771484">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{753B0108-C3CB-4570-9186-8395E799202E}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
@@ -876,7 +892,7 @@
 		<Vertex lat="35.85339220230829" lon="14.47749476441216"/>
 		<Vertex lat="35.85373477801850" lon="14.47752058648205"/>
 	</Polygon>
-	<Polygon groupIndex="53" altitude="78.00000000000000">
+	<Polygon groupIndex="57" altitude="78.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{23CC7C33-A399-4CED-8136-A2A3407A5D21}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="LandClassRemap" guid="{0A685EB0-0E01-44FE-B9EF-BFFFBC968ADE}" type="UINT8" value="2"/>
@@ -993,7 +1009,7 @@
 		<Vertex lat="35.84613928993978" lon="14.45894079983832"/>
 		<Vertex lat="35.84606617817754" lon="14.45923803589240"/>
 	</Polygon>
-	<Polygon groupIndex="58" altitude="69.00000000000000">
+	<Polygon groupIndex="62" altitude="69.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{8FC93664-65DC-46F6-829F-B461B8A3ED0E}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="30.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -1006,7 +1022,7 @@
 		<Vertex lat="35.84601103470921" lon="14.48738497011131"/>
 		<Vertex lat="35.84641673485677" lon="14.48865301830294"/>
 	</Polygon>
-	<Polygon groupIndex="55" altitude="73.59587097167969">
+	<Polygon groupIndex="59" altitude="73.59587097167969">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{FEF0D0ED-0820-4ED4-A75F-084A9C877A6A}"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
 		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
@@ -1015,7 +1031,7 @@
 		<Vertex lat="35.85073731557003" lon="14.49292045139070"/>
 		<Vertex lat="35.84895645516338" lon="14.49096167422459"/>
 	</Polygon>
-	<Polygon groupIndex="56" altitude="67.00000000000000">
+	<Polygon groupIndex="60" altitude="67.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{E4F453DD-18BD-46BE-9867-17B828BC2199}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="1.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -1034,7 +1050,7 @@
 		<Vertex lat="35.85022439680856" lon="14.49723640269372"/>
 		<Vertex lat="35.85141748525481" lon="14.49570944083397"/>
 	</Polygon>
-	<Polygon groupIndex="159" altitude="68.00000000000000">
+	<Polygon groupIndex="163" altitude="68.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{BC189F89-91BA-4C89-881A-A665D153E250}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="20.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -1054,7 +1070,7 @@
 		<Vertex lat="35.84986212536469" lon="14.49133976886809"/>
 		<Vertex lat="35.84953577303273" lon="14.49103215793038"/>
 	</Polygon>
-	<Polygon groupIndex="60" altitude="71.00000000000000">
+	<Polygon groupIndex="64" altitude="71.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{841ACC96-9F6A-4EEB-88F8-4692B2BA0F83}"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
 		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
@@ -1065,7 +1081,7 @@
 		<Vertex lat="35.85273872929609" lon="14.49401422720941"/>
 		<Vertex lat="35.85246495657861" lon="14.49387783797166"/>
 	</Polygon>
-	<Polygon groupIndex="111" altitude="73.40364837646484">
+	<Polygon groupIndex="115" altitude="73.40364837646484">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9C07D76C-45EF-4FED-8AD8-46A4B3C2C676}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="50.000000"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -1111,7 +1127,7 @@
 		<Vertex lat="35.83373940304600" lon="14.50806796488232"/>
 		<Vertex lat="35.83294052449973" lon="14.50704742809984"/>
 	</Polygon>
-	<Polygon groupIndex="118" altitude="70.28320312500000">
+	<Polygon groupIndex="122" altitude="70.28320312500000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9BCAFDA3-4D83-46DD-BE95-CEBEDA2CC570}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="0"/>
@@ -1121,7 +1137,7 @@
 		<Vertex lat="35.82860619398912" lon="14.51402456690345"/>
 		<Vertex lat="35.83356590905463" lon="14.50802273435825"/>
 	</Polygon>
-	<Polygon groupIndex="62" altitude="75.01599884033203">
+	<Polygon groupIndex="66" altitude="75.01599884033203">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{4B0C8052-D6BC-4F87-A3D8-C29AFA38A634}"/>
 		<Attribute name="IsWater" guid="{684AFC09-9B38-4431-8D76-E825F54A4DFF}" type="UINT8" value="1"/>
 		<Attribute name="IsWaterExclusion" guid="{972B7BAC-F620-4D6E-9724-E70BF8A450DD}" type="UINT8" value="1"/>
@@ -1131,7 +1147,7 @@
 		<Vertex lat="35.85812904530238" lon="14.48318596934987"/>
 		<Vertex lat="35.85752039145648" lon="14.48310473530879"/>
 	</Polygon>
-	<Polygon groupIndex="109" altitude="76.96033477783203">
+	<Polygon groupIndex="113" altitude="76.96033477783203">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{30D31720-410E-4ECE-B8C1-B3C9F647A6AE}"/>
 		<Attribute name="IsWater" guid="{684AFC09-9B38-4431-8D76-E825F54A4DFF}" type="UINT8" value="1"/>
 		<Attribute name="IsWaterExclusion" guid="{972B7BAC-F620-4D6E-9724-E70BF8A450DD}" type="UINT8" value="1"/>
@@ -1141,7 +1157,7 @@
 		<Vertex lat="35.86161579897880" lon="14.48113302408686"/>
 		<Vertex lat="35.86100903207350" lon="14.48141064662973"/>
 	</Polygon>
-	<Airport displayName="Malta International Airport" groupIndex="151" groupID="1" groupGenerated="FALSE" region="Europe" country="Malta" city="Luqa" name="Malta International Airport" ident="LMML" lat="35.85754171013603" lon="14.47743907570836" alt="78.25700369104743" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="4000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
+	<Airport displayName="Malta International Airport" groupIndex="155" groupID="1" groupGenerated="FALSE" region="Europe" country="Malta" city="Luqa" name="Malta International Airport" ident="LMML" lat="35.85754171013603" lon="14.47743907570836" alt="78.25700369104743" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="4000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
 		<TaxiwayPoint parentGroupID="1" groupIndex="2260" index="0" type="NORMAL" orientation="FORWARD" lat="35.85637856584295" lon="14.47886948699400"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="2827" index="1" type="NORMAL" orientation="FORWARD" lat="35.83458429267702" lon="14.50622275907762"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="2736" index="2" type="NORMAL" orientation="FORWARD" lat="35.83645499863306" lon="14.50354228375949"/>
@@ -5777,6 +5793,12 @@
 				<Vertex lat="35.84725949019585" lon="14.49502059419615"/>
 				<Vertex lat="35.84728301674796" lon="14.49505035630763"/>
 			</Apron>
+			<Apron displayName="Apron (Rectangle) (copy 3)" parentGroupID="1" groupIndex="1082" surface="{EE2E0F56-8FAD-44DF-8CF0-6800B6AB7A02}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="5" tiling="25.000000" heading="2.356192" falloff="0.000000" opacity="235" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="35.84728262121031" lon="14.48873193224030"/>
+				<Vertex lat="35.84732676267038" lon="14.48867771570170"/>
+				<Vertex lat="35.84734825142662" lon="14.48870410915295"/>
+				<Vertex lat="35.84730410995479" lon="14.48875832569156"/>
+			</Apron>
 			<Apron displayName="Apron (Rectangle) (copy 3)" parentGroupID="1" groupIndex="641" surface="{B0C7B267-BF8C-489B-8822-207A1DFB25F8}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="5" tiling="25.000000" heading="3.141189" falloff="0.000000" opacity="235" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="35.84730164719890" lon="14.49578051791848"/>
 				<Vertex lat="35.84730166029109" lon="14.49574066788689"/>
@@ -5794,12 +5816,6 @@
 				<Vertex lat="35.84743107508017" lon="14.48855394896568"/>
 				<Vertex lat="35.84745256383433" lon="14.48858034245062"/>
 				<Vertex lat="35.84740842236474" lon="14.48863455905590"/>
-			</Apron>
-			<Apron displayName="Apron (Rectangle) (copy 3)" parentGroupID="1" groupIndex="1082" surface="{EE2E0F56-8FAD-44DF-8CF0-6800B6AB7A02}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="5" tiling="25.000000" heading="2.356192" falloff="0.000000" opacity="235" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
-				<Vertex lat="35.84728262121031" lon="14.48873193224030"/>
-				<Vertex lat="35.84732676267038" lon="14.48867771570170"/>
-				<Vertex lat="35.84734825142662" lon="14.48870410915295"/>
-				<Vertex lat="35.84730410995479" lon="14.48875832569156"/>
 			</Apron>
 			<Apron displayName="Apron (Rectangle) (copy 4)" parentGroupID="1" groupIndex="653" surface="{2EF25353-935F-4E47-821A-9673A138FAF8}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="5" tiling="25.000000" heading="5.510516" falloff="0.000000" opacity="235" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="35.84747974005953" lon="14.49493367051105"/>
@@ -9197,7 +9213,7 @@
 				<Vertex lat="35.84891122969668" lon="14.48975516719101"/>
 			</PaintedLine>
 			<PaintedLine parentGroupID="1" groupIndex="538" type="HOLD_SHORT_FORWARD_MARKED_L" trueAngle="NONE">
-				<Vertex lat="35.84897805085441" lon="14.48964188342210"/>
+				<Vertex lat="35.84897850061143" lon="14.48964521533188"/>
 				<Vertex lat="35.84888663094537" lon="14.48999566280777"/>
 			</PaintedLine>
 			<PaintedLine parentGroupID="1" groupIndex="2578" type="DEFAULT" trueAngle="NONE">
@@ -12536,7 +12552,7 @@
 				<Vertex lat="35.85914585762614" lon="14.47659671526431"/>
 				<Vertex lat="35.85915741724639" lon="14.47659630739569"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="1" groupIndex="168" type="WIDE_WHITE" trueAngle="ALL_POINTS">
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="1" groupIndex="167" type="SLIM_RED" trueAngle="ALL_POINTS">
 				<Vertex lat="35.85760457633268" lon="14.47378146426177"/>
 				<Vertex lat="35.85770272159254" lon="14.47394016904009"/>
 				<Vertex lat="35.85770660010768" lon="14.47393912947215"/>
@@ -12557,7 +12573,7 @@
 				<Vertex lat="35.85982381271549" lon="14.47271656265409"/>
 				<Vertex lat="35.85973320325046" lon="14.47264407992386"/>
 			</PaintedLine>
-			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="1" groupIndex="167" type="SLIM_RED" trueAngle="ALL_POINTS">
+			<PaintedLine parentGroupID="1" groupIndex="168" type="WIDE_WHITE" trueAngle="ALL_POINTS">
 				<Vertex lat="35.85760457633268" lon="14.47378146426177"/>
 				<Vertex lat="35.85770272159254" lon="14.47394016904009"/>
 				<Vertex lat="35.85770660010768" lon="14.47393912947215"/>
@@ -13069,7 +13085,7 @@
 				<Vertex lat="35.86015616678586" lon="14.47690516971504"/>
 				<Vertex lat="35.86012468558292" lon="14.47689029446613"/>
 			</PaintedLine>
-			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="1" groupIndex="169" type="SLIM_RED" trueAngle="BOTH_ENDS">
+			<PaintedLine parentGroupID="1" groupIndex="166" type="WIDE_WHITE" trueAngle="NONE">
 				<Vertex lat="35.86137051954582" lon="14.47506405899150"/>
 				<Vertex lat="35.86023131662788" lon="14.47649869569534"/>
 				<Vertex lat="35.86013391434412" lon="14.47662458192107"/>
@@ -13115,7 +13131,7 @@
 				<Vertex lat="35.86136844104900" lon="14.47500966790493"/>
 				<Vertex lat="35.86134004972309" lon="14.47446263975566"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="1" groupIndex="166" type="WIDE_WHITE" trueAngle="NONE">
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="1" groupIndex="169" type="SLIM_RED" trueAngle="BOTH_ENDS">
 				<Vertex lat="35.86137051954582" lon="14.47506405899150"/>
 				<Vertex lat="35.86023131662788" lon="14.47649869569534"/>
 				<Vertex lat="35.86013391434412" lon="14.47662458192107"/>
