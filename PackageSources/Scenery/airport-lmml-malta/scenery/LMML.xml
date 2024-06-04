@@ -1006,7 +1006,7 @@
 		<Vertex lat="35.84601103470921" lon="14.48738497011131"/>
 		<Vertex lat="35.84641673485677" lon="14.48865301830294"/>
 	</Polygon>
-	<Polygon groupIndex="55" altitude="73.59586970257996">
+	<Polygon groupIndex="55" altitude="73.59587097167969">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{FEF0D0ED-0820-4ED4-A75F-084A9C877A6A}"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
 		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
@@ -13488,11 +13488,10 @@
 			</PaintedHatchedArea>
 		</PaintedElements>
 		<ApronEdgeLights/>
-		<Com frequency="127.400000" type="ATIS" name="Luqa ATIS Arrival"/>
-		<Com frequency="127.000000" type="ATIS" name="Luqa ATIS Departure"/>
-		<Com frequency="121.600000" type="GROUND" name="Luqa Ground"/>
-		<Com frequency="135.100000" type="TOWER" name="Luqa Tower"/>
-		<Com frequency="128.150000" type="APPROACH" name="Luqa Radar"/>
+		<Com frequency="127.005000" type="ATIS" name="Luqa ATIS"/>
+		<Com frequency="121.605000" type="GROUND" name="Luqa Ground"/>
+		<Com frequency="135.105000" type="TOWER" name="Luqa Tower"/>
+		<Com frequency="128.155000" type="APPROACH" name="Luqa Radar"/>
 		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllVectorPlacement="TRUE" deleteAllBoundaryFences="FALSE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
 	</Airport>
 </FSData>
