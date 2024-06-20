@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v2
+      - name: Copy GSX profile
+        run: |
+          cp -r ./LMML-vikingstudios-malta.ini ./Packages
       - name: Build ZIP file
         run: |
           mkdir -p Packages-Out/

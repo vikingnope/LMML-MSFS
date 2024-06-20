@@ -13,10 +13,13 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v2
+      - name: Copy GSX profile
+        run: |
+          cp -r ./LMML-vikingstudios-malta.ini ./Packages
       - name: Build ZIP file
         run: |
           mkdir -p Packages-Out/
-          7z a ../Packages-Out/vikingstudios-airport-lmml-malta.zip ./Packages/vikingstudios-airport-lmml-malta/
+          7z a ../Packages-Out/vikingstudios-airport-lmml-malta.zip ./Packages/*
           cd ../..
       - name: Create Release
         id: create_release
