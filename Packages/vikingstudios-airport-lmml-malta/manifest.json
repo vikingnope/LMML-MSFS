@@ -8,8 +8,8 @@
   "minimum_game_version": "1.37.19",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 0.1.1 RELEASED JANUARY 1, 0\\nCorrected ATIS frequency\nAdded SR technics hangar placeholder\nAdded more ground paintings\nAdded more placeholder buildings\nMade arrows on painted signs more pointed\n",
-      "OlderHistory": "VERSION 0.1.0 RELEASED JUNE 4, 2024\\nTotally new Aprons with ground signage sitll a work in progress\nApron Lights on Apron 9\nCorrect parking names and place\nRunways with ILS\nEnlarged taxiway L\nDifferent ATC tower\nCorrect frequencies\n"
+      "LastUpdate": "VERSION 0.1.1 RELEASED JANUARY 1, 0\\nCorrected ATIS frequency\r\nAdded SR technics hangar placeholder\r\nAdded more ground paintings\r\nAdded more placeholder buildings\r\nMade arrows on painted signs more pointed\r\n",
+      "OlderHistory": "VERSION 0.1.0 RELEASED JUNE 4, 2024\\nTotally new Aprons with ground signage sitll a work in progress\r\nApron Lights on Apron 9\r\nCorrect parking names and place\r\nRunways with ILS\r\nEnlarged taxiway L\r\nDifferent ATC tower\r\nCorrect frequencies\r\n"
     }
   }
 }
