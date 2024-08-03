@@ -1,3 +1,13 @@
+# 0.1.2
+
+- Added GSX Profile (Started)
+- Adjusted taxiway names to match new charts (Starting 8th August) (Not Started)
+- Adjusted parking numbers according to charts (Not Started)
+- Added new Apron 8 South and new parkings (Not Started)
+- New light poles on Apron 9 (Started)
+- Taxiway F added since it has been reopened (Not Started)
+
+
 # 0.1.1
 
 - Corrected ATIS frequency
