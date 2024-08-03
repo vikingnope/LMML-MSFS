@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>LMML</Title>
+		<Manufacturer/>
+		<Creator>vikingstudios</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\vikingstudios-airport-lmml-malta\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\vikingstudios-airport-lmml-malta\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MaterialLibs">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\MaterialLibs\materialsAsset\</AssetDir>
+			<OutputDir>MaterialLibs\materialsAsset\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="modelLibrary">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-lmml-malta\modelLibrary\</AssetDir>
+			<OutputDir>Scenery\airport-lmml-malta\modelLibrary\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-lmml-malta\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-lmml-malta\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
