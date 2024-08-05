@@ -4,12 +4,12 @@
   "title": "LMML",
   "manufacturer": "",
   "creator": "vikingstudios",
-  "package_version": "0.1.0",
+  "package_version": "0.1.2",
   "minimum_game_version": "1.37.19",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "",
-      "OlderHistory": ""
+      "LastUpdate": "VERSION 0.1.2 RELEASED AUGUST 10, 2024\\nAdded GSX Profile\nAdjusted taxiway names to match new charts\nAdjusted parking numbers according to charts\nAdded new Apron 8 South and new parkings\nNew light poles on Apron 9\nTaxiway F added since it has been reopened",
+      "OlderHistory": "VERSION 0.1.0 RELEASED JUNE 4, 2024\\nTotally new Aprons with ground signage sitll a work in progress\nApron Lights on Apron 9\nCorrect parking names and place\nRunways with ILS\nEnlarged taxiway L\nDifferent ATC tower\nCorrect frequencies\n\t\\nVERSION 0.1.1 RELEASED JUNE 10, 2024\\nCorrected ATIS frequency\nAdded SR technics hangar placeholder\nAdded more ground paintings\nAdded more placeholder buildings\nMade arrows on painted signs more pointed\n\t"
     }
   }
 }

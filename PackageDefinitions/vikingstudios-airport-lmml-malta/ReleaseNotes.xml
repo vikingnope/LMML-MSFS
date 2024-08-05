@@ -6,12 +6,18 @@ Runways with ILS
 Enlarged taxiway L
 Different ATC tower
 Correct frequencies
-</ReleaseNote>
-	<ReleaseNote Version="0.1.1" Date="0-1-1">Corrected ATIS frequency
+	</ReleaseNote>
+	<ReleaseNote Version="0.1.1" Date="2024-6-10">Corrected ATIS frequency
 Added SR technics hangar placeholder
 Added more ground paintings
 Added more placeholder buildings
 Made arrows on painted signs more pointed
-</ReleaseNote>
+	</ReleaseNote>
+	<ReleaseNote Version="0.1.2" Date="2024-8-10">Added GSX Profile
+Adjusted taxiway names to match new charts
+Adjusted parking numbers according to charts
+Added new Apron 8 South and new parkings
+New light poles on Apron 9
+Taxiway F added since it has been reopened</ReleaseNote>
 </ReleaseNotes>
 
