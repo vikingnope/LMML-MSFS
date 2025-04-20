@@ -12,6 +12,7 @@
 - Taxiway G changed to Taxiway Y
 - Changed part of Taxiway H to H NORTH
 - Changed taxiway VH to BL
+- Applied flatten to airport
 
 
 # 0.1.1 (Minor)
