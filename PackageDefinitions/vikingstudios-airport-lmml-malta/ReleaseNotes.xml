@@ -13,11 +13,17 @@ Added more ground paintings
 Added more placeholder buildings
 Made arrows on painted signs more pointed
 	</ReleaseNote>
-	<ReleaseNote Version="0.1.2" Date="2024-8-10">Added GSX Profile
-Adjusted taxiway names to match new charts
-Adjusted parking numbers according to charts
-Added new Apron 8 South and new parkings
-New light poles on Apron 9
-Taxiway F added since it has been reopened</ReleaseNote>
+	<ReleaseNote Version="0.1.2" Date="2024-8-10">- Added GSX Profile (Started)
+- Adjusted taxiway names to match new charts (Starting 8th August) (Done)
+- Adjusted parking numbers according to charts (Started) (Need to fix/add ground markings)
+- Added new Apron 8 South and new parkings (Not Started)
+- New light poles on Apron 9 (Started)
+- Taxiway F added since it has been reopened (Done)
+- Added vehicle path around airport (Started)
+- Fixed missing runway middle line
+- Fixed missing runway landing lights
+- Taxiway G changed to Taxiway Y
+- Changed part of Taxiway H to H NORTH
+- Changed taxiway VH to BL</ReleaseNote>
 </ReleaseNotes>
 

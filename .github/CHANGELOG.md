@@ -6,6 +6,12 @@
 - Added new Apron 8 South and new parkings (Not Started)
 - New light poles on Apron 9 (Started)
 - Taxiway F added since it has been reopened (Done)
+- Added vehicle path around airport (Started)
+- Fixed missing runway middle line
+- Fixed missing runway landing lights
+- Taxiway G changed to Taxiway Y
+- Changed part of Taxiway H to H NORTH
+- Changed taxiway VH to BL
 
 
 # 0.1.1 (Minor)
