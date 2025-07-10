@@ -17,6 +17,34 @@ jobs:
       - name: Copy GSX profile
         run: |
           cp -r ./LMML-vikingstudios-malta.ini ./Packages
+      - name: Extract changelog for current version
+        id: changelog
+        run: |
+          # Extract version from tag (remove 'v' prefix)
+          VERSION=${GITHUB_REF#refs/tags/v}
+          echo "Version: $VERSION"
+          
+          # Extract changelog section for this version
+          if [ -f ".github/CHANGELOG.md" ]; then
+            # Find the section for this version and extract until the next version or end of file
+            CHANGELOG_SECTION=$(awk -v version="$VERSION" '
+              BEGIN { found=0; content="" }
+              /^# / { 
+                if (found) exit
+                if ($0 ~ "^# " version " ") found=1
+                next
+              }
+              found { content = content $0 "\n" }
+              END { print content }
+            ' .github/CHANGELOG.md)
+            
+            # Save changelog to output
+            echo "changelog<<EOF" >> $GITHUB_OUTPUT
+            echo "$CHANGELOG_SECTION" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          else
+            echo "changelog=No changelog found for version $VERSION" >> $GITHUB_OUTPUT
+          fi
       - name: Build ZIP file
         run: |
           mkdir -p Packages-Out/
@@ -30,4 +58,8 @@ jobs:
         with:
           draft: false
           prerelease: false
+          body: |
+            ## Changes in this release
+            
+            ${{ steps.changelog.outputs.changelog }}
           files: ../Packages-Out/vikingstudios-airport-lmml-malta.zip
