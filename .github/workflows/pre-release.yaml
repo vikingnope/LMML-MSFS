@@ -16,6 +16,93 @@ jobs:
       - name: Copy GSX profile
         run: |
           cp -r ./LMML-vikingstudios-malta.ini ./Packages
+      - name: Extract changelog for pre-release version
+        id: changelog
+        run: |
+          # Extract version from tag (remove 'v' prefix and '-rc*' suffix)
+          FULL_TAG=${GITHUB_REF#refs/tags/v}
+          VERSION=$(echo "$FULL_TAG" | sed 's/-rc.*//')
+          echo "Version: $VERSION"
+          echo "Full tag: $FULL_TAG"
+          
+          if [ -f ".github/CHANGELOG.md" ]; then
+            # Extract changelog section for this version
+            CURRENT_CHANGELOG=$(awk -v version="$VERSION" '
+              BEGIN { found=0; content="" }
+              /^# / { 
+                if (found) exit
+                if ($0 ~ "^# " version " ") found=1
+                next
+              }
+              found { content = content $0 "\n" }
+              END { print content }
+            ' .github/CHANGELOG.md)
+            
+            # Find the previous release version in changelog
+            PREVIOUS_VERSION=$(awk '/^# [0-9]/ { versions[++count] = $2 } END { 
+              for (i = 1; i <= count; i++) {
+                if (versions[i] == "'$VERSION'") {
+                  if (i < count) print versions[i+1]
+                  break
+                }
+              }
+            }' .github/CHANGELOG.md)
+            
+            echo "Previous version: $PREVIOUS_VERSION"
+            
+            if [ -n "$PREVIOUS_VERSION" ]; then
+              # Get the previous release description from GitHub API
+              PREVIOUS_RELEASE_BODY=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+                "https://api.github.com/repos/$GITHUB_REPOSITORY/releases/tags/v$PREVIOUS_VERSION" | \
+                jq -r '.body // empty')
+              
+              if [ -n "$PREVIOUS_RELEASE_BODY" ]; then
+                # Extract only the changelog part from previous release (remove header)
+                PREVIOUS_CHANGELOG=$(echo "$PREVIOUS_RELEASE_BODY" | sed -n '/## Changes in this release/,$p' | tail -n +3)
+                
+                # Create a temporary file to compare changes
+                echo "$PREVIOUS_CHANGELOG" > /tmp/previous_changelog.txt
+                echo "$CURRENT_CHANGELOG" > /tmp/current_changelog.txt
+                
+                # Find new lines that are not in the previous changelog
+                NEW_CHANGES=$(grep -Fvxf /tmp/previous_changelog.txt /tmp/current_changelog.txt | grep -v '^$' || echo "")
+                
+                if [ -n "$NEW_CHANGES" ]; then
+                  echo "changelog<<EOF" >> $GITHUB_OUTPUT
+                  echo "**New changes in $FULL_TAG:**" >> $GITHUB_OUTPUT
+                  echo "" >> $GITHUB_OUTPUT
+                  echo "$NEW_CHANGES" >> $GITHUB_OUTPUT
+                  echo "" >> $GITHUB_OUTPUT
+                  echo "---" >> $GITHUB_OUTPUT
+                  echo "" >> $GITHUB_OUTPUT
+                  echo "**Full changelog for version $VERSION:**" >> $GITHUB_OUTPUT
+                  echo "" >> $GITHUB_OUTPUT
+                  echo "$CURRENT_CHANGELOG" >> $GITHUB_OUTPUT
+                  echo "EOF" >> $GITHUB_OUTPUT
+                else
+                  echo "changelog<<EOF" >> $GITHUB_OUTPUT
+                  echo "**Pre-release $FULL_TAG**" >> $GITHUB_OUTPUT
+                  echo "" >> $GITHUB_OUTPUT
+                  echo "$CURRENT_CHANGELOG" >> $GITHUB_OUTPUT
+                  echo "EOF" >> $GITHUB_OUTPUT
+                fi
+              else
+                echo "changelog<<EOF" >> $GITHUB_OUTPUT
+                echo "**Pre-release $FULL_TAG**" >> $GITHUB_OUTPUT
+                echo "" >> $GITHUB_OUTPUT
+                echo "$CURRENT_CHANGELOG" >> $GITHUB_OUTPUT
+                echo "EOF" >> $GITHUB_OUTPUT
+              fi
+            else
+              echo "changelog<<EOF" >> $GITHUB_OUTPUT
+              echo "**Pre-release $FULL_TAG**" >> $GITHUB_OUTPUT
+              echo "" >> $GITHUB_OUTPUT
+              echo "$CURRENT_CHANGELOG" >> $GITHUB_OUTPUT
+              echo "EOF" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "changelog=No changelog found for version $VERSION" >> $GITHUB_OUTPUT
+          fi
       - name: Build ZIP file
         run: |
           mkdir -p Packages-Out/
@@ -29,4 +116,6 @@ jobs:
         with:
           draft: false
           prerelease: true
+          body: |
+            ${{ steps.changelog.outputs.changelog }}
           files: ../Packages-Out/vikingstudios-airport-lmml-malta.zip
