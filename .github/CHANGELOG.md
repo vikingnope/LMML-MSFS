@@ -1,7 +1,7 @@
 # 0.1.2 (Minor)
 
-- Added GSX Profile (Started)
-- Adjusted taxiway names to match new charts (Done)
+- Started working on GSX  (Not Completed)
+- Adjusted taxiway names to match new charts
 - Adjusted parking numbers according to charts (Started) (Need to fix/add ground markings)
 - Added Apron 8 (not fully done due to outdated satellite imagery)
 - New light poles on Apron 9 (Started)
