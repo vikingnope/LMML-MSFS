@@ -1,12 +1,12 @@
 # 0.1.2 (Minor)
 
 - Added GSX Profile (Started)
-- Adjusted taxiway names to match new charts (Starting 8th August) (Done)
+- Adjusted taxiway names to match new charts (Done)
 - Adjusted parking numbers according to charts (Started) (Need to fix/add ground markings)
-- Added new Apron 8 South and new parkings (Not Started)
+- Added Apron 8 (not fully done due to outdated satellite imagery)
 - New light poles on Apron 9 (Started)
-- Taxiway F added since it has been reopened (Done)
-- Added vehicle path around airport (Started)
+- Taxiway F re-added since it has been reopened
+- Added vehicle path around airport
 - Fixed missing runway middle line
 - Fixed missing runway landing lights
 - Taxiway G changed to Taxiway Y
